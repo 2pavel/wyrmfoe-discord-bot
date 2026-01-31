@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const { BOT_ID, BOT_TOKEN } = process.env;
+const { BOT_ID, BOT_TOKEN, GUILD_ID } = process.env;
 
 if (!BOT_ID || !BOT_TOKEN) {
   throw new Error("Missing environment variables");
@@ -11,4 +11,5 @@ if (!BOT_ID || !BOT_TOKEN) {
 export const config = {
   BOT_ID,
   BOT_TOKEN,
+  GUILD_ID,
 };

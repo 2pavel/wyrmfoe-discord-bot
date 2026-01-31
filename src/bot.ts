@@ -7,8 +7,11 @@ const client = new Client({
   intents: ["Guilds", "GuildMessages", "DirectMessages"],
 });
 
-client.once("ready", () => {
+client.once("clientReady", async () => {
   console.log("Discord bot is ready!");
+  if (config.GUILD_ID) {
+    await deployCommands({ guildId: config.GUILD_ID });
+  }
 });
 
 client.on("guildCreate", async (guild) => {
@@ -16,10 +19,11 @@ client.on("guildCreate", async (guild) => {
 });
 
 client.on("interactionCreate", async (interaction) => {
-  if (!interaction.isCommand()) {
+  if (!interaction.isChatInputCommand()) {
     return;
   }
   const { commandName } = interaction;
+  console.log(`Received command: ${commandName}`);
   if (commands[commandName as keyof typeof commands]) {
     commands[commandName as keyof typeof commands].execute(interaction);
   }

@@ -1,5 +1,5 @@
-import * as search from "./search.js";
+import * as gift from "./search.js";
 
 export const commands = {
-  search,
+  gift,
 };
