@@ -5,9 +5,7 @@ export function extractGiftData(rssXml: string, searchFor: string): string {
   const xmlDoc = xmlParser.parseFromString(rssXml, "text/xml");
 
   const contentNodes = xmlDoc.getElementsByTagName("item");
-  if (!contentNodes.length) {
-    return "";
-  }
+  if (!contentNodes.length) return "";
 
   const encodedHtml = contentNodes[0].textContent;
 

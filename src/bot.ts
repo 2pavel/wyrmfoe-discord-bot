@@ -19,9 +19,8 @@ client.on("guildCreate", async (guild) => {
 });
 
 client.on("interactionCreate", async (interaction) => {
-  if (!interaction.isChatInputCommand()) {
-    return;
-  }
+  if (!interaction.isChatInputCommand()) return;
+
   const { commandName } = interaction;
   console.log(`Received command: ${commandName}`);
   if (commands[commandName as keyof typeof commands]) {

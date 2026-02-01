@@ -17,13 +17,13 @@ export async function execute(interaction: ChatInputCommandInteraction) {
   const message = interaction.options.getString("gift_name", true);
   const searchFor = messageToSearchString(message);
   console.log(`Searching for: ${searchFor}`);
+
+  await interaction.deferReply();
+
   const res = await fetch(
     `https://www.wyrmfoe.com/search/${searchFor}/feed/rss2?orderby=relevance`,
   );
   const data = await res.text();
-  fs.writeFile(path.resolve("output", "search_result"), data, (err) => {
-    if (err) console.error(err);
-  });
 
   console.log(res.status);
 
@@ -33,8 +33,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
   });
 
   if (!searchResult) {
-    return interaction.reply(`No results found for "${message}".`);
+    return interaction.editReply(`No results found for "${message}".`);
   }
 
-  return interaction.reply(searchResult);
+  return interaction.editReply(searchResult);
 }
