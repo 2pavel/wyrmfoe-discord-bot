@@ -25,8 +25,16 @@ client.on("interactionCreate", async (interaction) => {
   const { commandName } = interaction;
   console.log(`Received command: ${commandName}`);
   if (commands[commandName as keyof typeof commands]) {
-    commands[commandName as keyof typeof commands].execute(interaction);
+    commands[commandName as keyof typeof commands]
+      .execute(interaction)
+      .catch((err) => {
+        console.error(`Error executing command ${commandName}:`, err);
+      });
   }
+});
+
+client.on("error", (err) => {
+  console.error("Discord client error:", err);
 });
 
 client.login(config.BOT_TOKEN);
