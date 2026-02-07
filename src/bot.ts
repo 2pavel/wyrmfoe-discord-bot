@@ -1,8 +1,16 @@
-import { Client } from "discord.js";
+import {
+  ActionRowBuilder,
+  Client,
+  LabelBuilder,
+  ModalBuilder,
+  TextInputBuilder,
+  TextInputStyle,
+} from "discord.js";
 import { deployCommands } from "./deploy-commands";
 import { commands } from "./commands";
 import { config } from "./config";
 import wyrmfoeTags from "../resources/filteredTags.json";
+import { getRollResultMessage, rollDice } from "./utils/roll_utils";
 
 const client = new Client({
   intents: ["Guilds", "GuildMessages", "DirectMessages"],
@@ -61,6 +69,59 @@ client.on("interactionCreate", async (interaction) => {
   }));
 
   interaction.respond(results).catch(() => {});
+});
+
+// Handler for difficulty buttons in the "roll" command
+client.on("interactionCreate", async (interaction) => {
+  if (!interaction.isButton()) return;
+
+  if (interaction.customId.startsWith("difficulty_")) {
+    const difficulty = interaction.customId.split("_")[1];
+
+    const modal = new ModalBuilder()
+      .setCustomId(`dice_modal_${difficulty}`)
+      .setTitle("Enter Dice Pool");
+
+    const diceInput = new TextInputBuilder()
+      .setCustomId("dice_pool")
+      .setStyle(TextInputStyle.Short)
+      .setPlaceholder("Enter number of dice")
+      .setRequired(true);
+
+    const diceLabel = new LabelBuilder()
+      .setLabel("Dice Pool")
+      .setTextInputComponent(diceInput);
+
+    modal.addLabelComponents(diceLabel);
+
+    await interaction.showModal(modal);
+  }
+});
+
+// Handle modal submission for dice rolls
+client.on("interactionCreate", async (interaction) => {
+  if (!interaction.isModalSubmit()) return;
+
+  if (interaction.customId.startsWith("dice_modal_")) {
+    const difficulty = Number(interaction.customId.split("_")[2]);
+    const dicePool = Number(interaction.fields.getTextInputValue("dice_pool"));
+
+    if (isNaN(dicePool) || dicePool <= 0) {
+      return interaction.reply({
+        content: "Dice pool must be a positive number.",
+        ephemeral: true,
+      });
+    }
+    if (dicePool > 100) {
+      return interaction.reply({
+        content: "Skąd mam tyle kości wziąć?",
+        ephemeral: true,
+      });
+    }
+
+    const rollResult = rollDice(dicePool, difficulty);
+    await interaction.reply(getRollResultMessage(rollResult));
+  }
 });
 
 client.on("error", (err) => {
