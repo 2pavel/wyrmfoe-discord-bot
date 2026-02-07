@@ -1,0 +1,4566 @@
+[
+  {
+    "id": 596,
+    "name": "academics",
+    "slug": "academics",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 136,
+    "name": "Ahroun Gifts",
+    "slug": "giftahroun",
+    "description": "A list of all Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 35
+  },
+  {
+    "id": 251,
+    "name": "alertness",
+    "slug": "alertness",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 402,
+    "name": "ancestors",
+    "slug": "ancestors",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 83,
+    "name": "animalken",
+    "slug": "animalken",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 132,
+    "name": "appearance",
+    "slug": "appearance",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 552,
+    "name": "archery",
+    "slug": "archery",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 48,
+    "name": "athletics",
+    "slug": "athletics",
+    "description": "",
+    "count": 20
+  },
+  {
+    "id": 642,
+    "name": "awareness",
+    "slug": "awareness",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 612,
+    "name": "barter",
+    "slug": "barter",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 151,
+    "name": "Black Furies Gifts",
+    "slug": "giftblackfuries",
+    "description": "A list of all Black Furies tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Furies Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 46
+  },
+  {
+    "id": 274,
+    "name": "Black Spiral Dancer Gifts",
+    "slug": "giftbsd",
+    "description": "A list of all Black Spiral Dancer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Spiral Dancer Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 77
+  },
+  {
+    "id": 629,
+    "name": "Boli Zouhize Gifts",
+    "slug": "campboli",
+    "description": "The Boli Zouhisze are the Chinese members of the Glass Walker Tribe. Over time, they have been everything from craftsmen, warriors and farmers of Pre-Dynastic China to the businessmen, geomancers and thugs and arms dealers of today. Since they are defined by location rather than time period, the following is a set of unique Gifts (and one slightly altered Gift) appropriate to all time periods for the tribe. They should also be allowed to use any appropriate Glass Walker Gifts from the period.",
+    "count": 5
+  },
+  {
+    "id": 160,
+    "name": "Bone Gnawers Gifts",
+    "slug": "giftbonegnawers",
+    "description": "A list of all Bone Gnawers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bone Gnawers Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 51
+  },
+  {
+    "id": 572,
+    "name": "bookamazon",
+    "slug": "bookamazon",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 595,
+    "name": "bookanniversary",
+    "slug": "bookanniversary",
+    "description": "",
+    "count": 122
+  },
+  {
+    "id": 429,
+    "name": "bookapocalypse",
+    "slug": "bookapocalypse",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 330,
+    "name": "bookauspices",
+    "slug": "bookauspices",
+    "description": "",
+    "count": 39
+  },
+  {
+    "id": 604,
+    "name": "bookaustralia",
+    "slug": "bookaustralia",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 432,
+    "name": "bookcaerns",
+    "slug": "bookcaerns",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 657,
+    "name": "bookchangingways",
+    "slug": "bookchangingways",
+    "description": "",
+    "count": 34
+  },
+  {
+    "id": 566,
+    "name": "bookcity",
+    "slug": "bookcity",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 600,
+    "name": "bookcore2nd",
+    "slug": "bookcore2nd",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 15,
+    "name": "bookcorerevised",
+    "slug": "bookcorerevised",
+    "description": "",
+    "count": 193
+  },
+  {
+    "id": 611,
+    "name": "bookcroatansong",
+    "slug": "bookcroatansong",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 507,
+    "name": "bookheavens",
+    "slug": "bookheavens",
+    "description": "",
+    "count": 66
+  },
+  {
+    "id": 734,
+    "name": "bookhowlofapocalypsew20",
+    "slug": "bookhowlofapocalypsew20",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 729,
+    "name": "bookkinfolk",
+    "slug": "bookkinfolk",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 633,
+    "name": "bookoutcasts",
+    "slug": "bookoutcasts",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 581,
+    "name": "bookpastlives",
+    "slug": "bookpastlives",
+    "description": "",
+    "count": 28
+  },
+  {
+    "id": 290,
+    "name": "bookplayers",
+    "slug": "bookplayers",
+    "description": "",
+    "count": 54
+  },
+  {
+    "id": 605,
+    "name": "bookplayers1st",
+    "slug": "bookplayers1st",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 573,
+    "name": "bookplayersguide",
+    "slug": "bookplayersguide",
+    "description": "",
+    "count": 41
+  },
+  {
+    "id": 725,
+    "name": "bookplayersguiderevised",
+    "slug": "bookplayersguiderevised",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 705,
+    "name": "bookrageacrosstheworldw20",
+    "slug": "bookrageacrosstheworldw20",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 654,
+    "name": "bookragewarriors",
+    "slug": "bookragewarriors",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 424,
+    "name": "bookumbra",
+    "slug": "bookumbra",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 506,
+    "name": "bookwaysofthewolf",
+    "slug": "bookwaysofthewolf",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 431,
+    "name": "bookwyrm",
+    "slug": "bookwyrm",
+    "description": "",
+    "count": 15
+  },
+  {
+    "id": 704,
+    "name": "bookwyrm20",
+    "slug": "bookwyrm20",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 667,
+    "name": "bookwyrmw20",
+    "slug": "bookwyrmw20",
+    "description": "",
+    "count": 41
+  },
+  {
+    "id": 121,
+    "name": "brawl",
+    "slug": "brawl",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 582,
+    "name": "Bunyip Gifts",
+    "slug": "giftbunyip",
+    "description": "A list of all Bunyip tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bunyip Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 21
+  },
+  {
+    "id": 343,
+    "name": "campamazonsofdiana",
+    "slug": "campamazonsofdiana",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 482,
+    "name": "campausterehowl",
+    "slug": "campausterehowl",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 342,
+    "name": "campbacchantes",
+    "slug": "campbacchantes",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 555,
+    "name": "campbanetenders",
+    "slug": "campbanetenders",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 644,
+    "name": "campbitterhex",
+    "slug": "campbitterhex",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 485,
+    "name": "campbloodredcrest",
+    "slug": "campbloodredcrest",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 455,
+    "name": "campbringersoflight",
+    "slug": "campbringersoflight",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 639,
+    "name": "campchildrenofbat",
+    "slug": "campchildrenofbat",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 454,
+    "name": "campchildrenofcrow",
+    "slug": "campchildrenofcrow",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 445,
+    "name": "campcityfarmer",
+    "slug": "campcityfarmer",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 389,
+    "name": "campcorporatewolves",
+    "slug": "campcorporatewolves",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 487,
+    "name": "campcrescentmoon",
+    "slug": "campcrescentmoon",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 394,
+    "name": "campcyberdogs",
+    "slug": "campcyberdogs",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 542,
+    "name": "campdemoneaters",
+    "slug": "campdemoneaters",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 396,
+    "name": "campdiesultimae",
+    "slug": "campdiesultimae",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 474,
+    "name": "campdispossessed",
+    "slug": "campdispossessed",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 466,
+    "name": "campdyingcubs",
+    "slug": "campdyingcubs",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 554,
+    "name": "campearthguides",
+    "slug": "campearthguides",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 476,
+    "name": "campeatersofthedead",
+    "slug": "campeatersofthedead",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 620,
+    "name": "campfangsofgarm",
+    "slug": "campfangsofgarm",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 344,
+    "name": "campfreebooters",
+    "slug": "campfreebooters",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 651,
+    "name": "campghostdance",
+    "slug": "campghostdance",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 621,
+    "name": "campgloriousfistofwotan",
+    "slug": "campgloriousfistofwotan",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 618,
+    "name": "camphandoftyr",
+    "slug": "camphandoftyr",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 473,
+    "name": "campharbingers",
+    "slug": "campharbingers",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 641,
+    "name": "campjudgesofdoom",
+    "slug": "campjudgesofdoom",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 630,
+    "name": "campkucha",
+    "slug": "campkucha",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 462,
+    "name": "camplodgeofthepredatorkings",
+    "slug": "camplodgeofthepredatorkings",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 498,
+    "name": "camploonlodge",
+    "slug": "camploonlodge",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 451,
+    "name": "camplordsofthesummit",
+    "slug": "camplordsofthesummit",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 619,
+    "name": "campmjolnirsthunder",
+    "slug": "campmjolnirsthunder",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 347,
+    "name": "campmoon-daughters",
+    "slug": "campmoon-daughters",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 353,
+    "name": "campmoondaughters",
+    "slug": "campmoondaughters",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 497,
+    "name": "campmoonlodge",
+    "slug": "campmoonlodge",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 348,
+    "name": "camporderofourmercifulmother",
+    "slug": "camporderofourmercifulmother",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 623,
+    "name": "camprandominterrupts",
+    "slug": "camprandominterrupts",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 652,
+    "name": "campsacredhoop",
+    "slug": "campsacredhoop",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 543,
+    "name": "campsacredthread",
+    "slug": "campsacredthread",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 557,
+    "name": "campscouts",
+    "slug": "campscouts",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 350,
+    "name": "campsisterhood",
+    "slug": "campsisterhood",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 556,
+    "name": "campskywalkers",
+    "slug": "campskywalkers",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 495,
+    "name": "campsunlodge",
+    "slug": "campsunlodge",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 351,
+    "name": "campthetempleofartemis",
+    "slug": "campthetempleofartemis",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 544,
+    "name": "camptrancerunners",
+    "slug": "camptrancerunners",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 489,
+    "name": "campunbreakablehearth",
+    "slug": "campunbreakablehearth",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 617,
+    "name": "campvalkyriaoffreya",
+    "slug": "campvalkyriaoffreya",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 461,
+    "name": "campwardersoftheland",
+    "slug": "campwardersoftheland",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 465,
+    "name": "campwhelpscompromise",
+    "slug": "campwhelpscompromise",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 467,
+    "name": "campwinterpacks",
+    "slug": "campwinterpacks",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 626,
+    "name": "campwiseguys",
+    "slug": "campwiseguys",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 492,
+    "name": "campwiseheart",
+    "slug": "campwiseheart",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 558,
+    "name": "campwyldchildren",
+    "slug": "campwyldchildren",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 494,
+    "name": "campwyrmfoe",
+    "slug": "campwyrmfoe",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 13,
+    "name": "charisma",
+    "slug": "charisma",
+    "description": "",
+    "count": 98
+  },
+  {
+    "id": 173,
+    "name": "Children of Gaia Gifts",
+    "slug": "giftchildrenofgaia",
+    "description": "A list of all Children of Gaia tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Children of Gaia Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 38
+  },
+  {
+    "id": 219,
+    "name": "computer",
+    "slug": "computer",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 21,
+    "name": "crafts",
+    "slug": "crafts",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 560,
+    "name": "Croatan Gifts",
+    "slug": "giftcroatan",
+    "description": "A list of all Croatan tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Croatan Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 21
+  },
+  {
+    "id": 138,
+    "name": "dexterity",
+    "slug": "dexterity",
+    "description": "",
+    "count": 35
+  },
+  {
+    "id": 180,
+    "name": "dodge",
+    "slug": "dodge",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 29,
+    "name": "empathy",
+    "slug": "empathy",
+    "description": "",
+    "count": 34
+  },
+  {
+    "id": 76,
+    "name": "enigmas",
+    "slug": "enigmas",
+    "description": "",
+    "count": 42
+  },
+  {
+    "id": 390,
+    "name": "etiquette",
+    "slug": "etiquette",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 51,
+    "name": "expression",
+    "slug": "expression",
+    "description": "",
+    "count": 23
+  },
+  {
+    "id": 184,
+    "name": "Fianna Gifts",
+    "slug": "giftfianna",
+    "description": "A list of all Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/gifts/\">Werewolf Gifts</a> section.",
+    "count": 38
+  },
+  {
+    "id": 627,
+    "name": "firearms",
+    "slug": "firearms",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 125,
+    "name": "Galliard Gifts",
+    "slug": "giftgalliard",
+    "description": "A list of all Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 35
+  },
+  {
+    "id": 197,
+    "name": "Get of Fenris Gifts",
+    "slug": "giftgetoffenris",
+    "description": "A list of all Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts&lt;/a. section.",
+    "count": 38
+  },
+  {
+    "id": 699,
+    "name": "giftbsdahroun",
+    "slug": "giftbsdahroun",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 700,
+    "name": "giftbsdahroun1",
+    "slug": "giftbsdahroun1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 701,
+    "name": "giftbsdahroun2",
+    "slug": "giftbsdahroun2",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 702,
+    "name": "giftbsdahroun3",
+    "slug": "giftbsdahroun3",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 703,
+    "name": "giftbsdahroun5",
+    "slug": "giftbsdahroun5",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 695,
+    "name": "giftbsdgalliard",
+    "slug": "giftbsdgalliard",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 696,
+    "name": "giftbsdgalliard2",
+    "slug": "giftbsdgalliard2",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 697,
+    "name": "giftbsdgalliard4",
+    "slug": "giftbsdgalliard4",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 698,
+    "name": "giftbsdgalliard5",
+    "slug": "giftbsdgalliard5",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 668,
+    "name": "giftbsdhomid",
+    "slug": "giftbsdhomid",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 669,
+    "name": "giftbsdhomid1",
+    "slug": "giftbsdhomid1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 670,
+    "name": "giftbsdhomid2",
+    "slug": "giftbsdhomid2",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 677,
+    "name": "giftbsdhomid3",
+    "slug": "giftbsdhomid3",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 676,
+    "name": "giftbsdhomid4",
+    "slug": "giftbsdhomid4",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 679,
+    "name": "giftbsdlupus",
+    "slug": "giftbsdlupus",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 680,
+    "name": "giftbsdlupus1",
+    "slug": "giftbsdlupus1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 681,
+    "name": "giftbsdlupus3",
+    "slug": "giftbsdlupus3",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 682,
+    "name": "giftbsdlupus5",
+    "slug": "giftbsdlupus5",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 674,
+    "name": "giftbsdmetis",
+    "slug": "giftbsdmetis",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 675,
+    "name": "giftbsdmetis1",
+    "slug": "giftbsdmetis1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 678,
+    "name": "giftbsdmetis3",
+    "slug": "giftbsdmetis3",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 692,
+    "name": "giftbsdphilodox",
+    "slug": "giftbsdphilodox",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 693,
+    "name": "giftbsdphilodox1",
+    "slug": "giftbsdphilodox1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 694,
+    "name": "giftbsdphilodox5",
+    "slug": "giftbsdphilodox5",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 683,
+    "name": "giftbsdragabash",
+    "slug": "giftbsdragabash",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 684,
+    "name": "giftbsdragabash1",
+    "slug": "giftbsdragabash1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 685,
+    "name": "giftbsdragabash4",
+    "slug": "giftbsdragabash4",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 686,
+    "name": "giftbsdragabash5",
+    "slug": "giftbsdragabash5",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 687,
+    "name": "giftbsdtheurge",
+    "slug": "giftbsdtheurge",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 688,
+    "name": "giftbsdtheurge2",
+    "slug": "giftbsdtheurge2",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 689,
+    "name": "giftbsdtheurge3",
+    "slug": "giftbsdtheurge3",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 691,
+    "name": "giftbsdtheurge6",
+    "slug": "giftbsdtheurge6",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 515,
+    "name": "gifteshtarra",
+    "slug": "gifteshtarra",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 519,
+    "name": "gifthakahe",
+    "slug": "gifthakahe",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 518,
+    "name": "giftkatankasonnak",
+    "slug": "giftkatankasonnak",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 523,
+    "name": "giftlubat",
+    "slug": "giftlubat",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 521,
+    "name": "giftmeros",
+    "slug": "giftmeros",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 516,
+    "name": "giftmitanu",
+    "slug": "giftmitanu",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 510,
+    "name": "giftnerigal",
+    "slug": "giftnerigal",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 635,
+    "name": "giftronin1",
+    "slug": "giftronin1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 637,
+    "name": "giftronin2",
+    "slug": "giftronin2",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 634,
+    "name": "giftronin3",
+    "slug": "giftronin3",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 526,
+    "name": "giftrorg",
+    "slug": "giftrorg",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 524,
+    "name": "giftruatma",
+    "slug": "giftruatma",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 525,
+    "name": "giftshantar",
+    "slug": "giftshantar",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 708,
+    "name": "giftsingingdog1",
+    "slug": "giftsingingdog1",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 710,
+    "name": "giftsingingdog3",
+    "slug": "giftsingingdog3",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 517,
+    "name": "giftsokhta",
+    "slug": "giftsokhta",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 520,
+    "name": "gifttambiyah",
+    "slug": "gifttambiyah",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 522,
+    "name": "giftzarok",
+    "slug": "giftzarok",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 206,
+    "name": "Glass Walker Gifts",
+    "slug": "giftglasswalker",
+    "description": "A list of all Glass Walker tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Glass Walker Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 63
+  },
+  {
+    "id": 19,
+    "name": "gnosis",
+    "slug": "gnosis",
+    "description": "",
+    "count": 422
+  },
+  {
+    "id": 638,
+    "name": "Hakken Gifts",
+    "slug": "camphakken",
+    "description": "A Japanese offshoot of the Shadow Lords, the Hakken have struck many pacts with the spirits of the Land of the Rising Sun which are unknown to their Western counterparts. Hakken prize honor, sophistication, and skill with the blade in equal measure.\r\n\r\nHakken begin with three Gifts, one each for tribe, breed and auspice. Those who follow the Way of Emerald Virtue and are sworn to the Courts begin play with a Hakken Gift, a general hengeyokai Gift, and a breed Gift. They may use any Shadow Lord Gifts in addition to those of their own distinct subtribe. As with most other hengeyokai, several Gifts are taught by ancestor-spirits.\r\n",
+    "count": 6
+  },
+  {
+    "id": 9,
+    "name": "Homid Gifts",
+    "slug": "gifthomid",
+    "description": "A list of all Homid Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Homid Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 29
+  },
+  {
+    "id": 663,
+    "name": "honor",
+    "slug": "honor",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 407,
+    "name": "Howl Gifts",
+    "slug": "howlgift",
+    "description": "The Fianna may claim that their ancestors were the first to howl to Luna or some such nonsense, but the Red Talons know that for as long as wolves have existed, they have howled. Over time, the Talons have spoken with wolf-spirits and learned secret howls that carry powerful and devastating effects.\r\n\r\nThe following Gifts are each taught by wolf-spirits or ancestor-spirits and require that the Garou let out a mighty howl. If the Red Talon also knows the Galliard Gift: <a href=\"http://www.wyrmfoe.com/2096/call-of-the-wyld/\">Call of the Wyld</a>, reduce the difficulty of the roll by one.",
+    "count": 5
+  },
+  {
+    "id": 102,
+    "name": "intelligence",
+    "slug": "intelligence",
+    "description": "",
+    "count": 40
+  },
+  {
+    "id": 452,
+    "name": "interrogation",
+    "slug": "interrogation",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 26,
+    "name": "intimidation",
+    "slug": "intimidation",
+    "description": "",
+    "count": 26
+  },
+  {
+    "id": 335,
+    "name": "investigation",
+    "slug": "investigation",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 731,
+    "name": "Kinfolk Gifts",
+    "slug": "kinfolk-gifts",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 732,
+    "name": "Kinfolk Gifts",
+    "slug": "giftkinfolk",
+    "description": "Many Children of Gaia support their Kin's learning Gifts and have helped them create their own unique Kinfolk Gifts. The following are examples of such Gifts; of course, werewolves may learn them too. With Storyteller approval, players might wish to create specialized Gifts for their characters, as well. Such Gifts automatically count as being within any Kinfolk's breed or tribe for purposes of spending experience. ",
+    "count": 3
+  },
+  {
+    "id": 428,
+    "name": "law",
+    "slug": "law",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 108,
+    "name": "leadership",
+    "slug": "leadership",
+    "description": "",
+    "count": 16
+  },
+  {
+    "id": 289,
+    "name": "linguistics",
+    "slug": "linguistics",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 67,
+    "name": "Lupus Gifts",
+    "slug": "giftlupus",
+    "description": "A list of all Lupus breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Lupus Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 29
+  },
+  {
+    "id": 20,
+    "name": "manipulation",
+    "slug": "manipulation",
+    "description": "",
+    "count": 93
+  },
+  {
+    "id": 628,
+    "name": "marksmanship",
+    "slug": "marksmanship",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 139,
+    "name": "medicine",
+    "slug": "medicine",
+    "description": "",
+    "count": 15
+  },
+  {
+    "id": 456,
+    "name": "meditation",
+    "slug": "meditation",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 475,
+    "name": "melee",
+    "slug": "melee",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 38,
+    "name": "Metis Gifts",
+    "slug": "giftmetis",
+    "description": "A list of all Metis Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Breed Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">Werewolf Gifts</a> section.",
+    "count": 27
+  },
+  {
+    "id": 44,
+    "name": "occult",
+    "slug": "occult",
+    "description": "",
+    "count": 57
+  },
+  {
+    "id": 43,
+    "name": "perception",
+    "slug": "perception",
+    "description": "",
+    "count": 94
+  },
+  {
+    "id": 129,
+    "name": "performance",
+    "slug": "performance",
+    "description": "",
+    "count": 14
+  },
+  {
+    "id": 115,
+    "name": "Philodox Gifts",
+    "slug": "giftphilodox",
+    "description": "A list of all Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 32
+  },
+  {
+    "id": 508,
+    "name": "Planetary Gifts",
+    "slug": "giftplanetary",
+    "description": "A list of all Planetary Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For other Gifts, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 65
+  },
+  {
+    "id": 385,
+    "name": "politics",
+    "slug": "politics",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 74,
+    "name": "primalurge",
+    "slug": "primalurge",
+    "description": "",
+    "count": 57
+  },
+  {
+    "id": 85,
+    "name": "Ragabash Gifts",
+    "slug": "giftragabash",
+    "description": "A list of all Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 40
+  },
+  {
+    "id": 141,
+    "name": "rage",
+    "slug": "rage",
+    "description": "",
+    "count": 87
+  },
+  {
+    "id": 430,
+    "name": "Ragnarok Gifts",
+    "slug": "giftragnarok",
+    "description": "A list of all Ragnarok Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For other Gifts, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 2
+  },
+  {
+    "id": 137,
+    "name": "Rank 1 Ahroun Gifts",
+    "slug": "giftahroun1",
+    "description": "A list of all Rank 1 Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftahroun/\">All Ahroun Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 152,
+    "name": "Rank 1 Black Furies Gifts",
+    "slug": "giftblackfuries1",
+    "description": "A list of all Rank 1 Black Furies tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Furies Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftblackfuries/\">All Black Furies Gifts</a>.",
+    "count": 13
+  },
+  {
+    "id": 275,
+    "name": "Rank 1 Black Spiral Dancer Gifts",
+    "slug": "giftbsd1",
+    "description": "A list of all Rank 1 Black Spiral Dancer Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Spiral Dancer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbsd/\">All Black Spiral Dancer Gifts</a>.",
+    "count": 17
+  },
+  {
+    "id": 161,
+    "name": "Rank 1 Bone Gnawers Gifts",
+    "slug": "giftbonegnawers1",
+    "description": "A list of all Rank 1 Bone Gnawers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bone Gnawers Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbonegnawers/\">All Bone Gnawers Gifts</a>.",
+    "count": 14
+  },
+  {
+    "id": 583,
+    "name": "Rank 1 Bunyip Gifts",
+    "slug": "giftbunyip1",
+    "description": "A list of all Rank 1 Bunyip tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bunyip Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbunyip/\">All Bunyip Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 174,
+    "name": "Rank 1 Children of Gaia Gifts",
+    "slug": "giftchildrenofgaia1",
+    "description": "A list of all Rank 1 Children of Gaia tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Children of Gaia Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftchildrenofgaia/\">All Children of Gaia Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 561,
+    "name": "Rank 1 Croatan Gifts",
+    "slug": "giftcroatan1",
+    "description": "A list of all Rank 1 Croatan tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Croatian Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftcroatian/\">All Croatian Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 185,
+    "name": "Rank 1 Fianna Gifts",
+    "slug": "giftfianna1",
+    "description": "A list of all Rank 1 Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">All Fianna Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 126,
+    "name": "Rank 1 Galliard Gifts",
+    "slug": "giftgalliard1",
+    "description": "A list of all Rank 1 Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgalliard/\">All Galliard Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 198,
+    "name": "Rank 1 Get of Fenris Gift",
+    "slug": "giftgetoffenris1",
+    "description": "A list of all Rank 1 Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgetoffenris/\">All Get of Fenris Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 16,
+    "name": "Rank 1 Gifts",
+    "slug": "giftrank1",
+    "description": "A list of all Rank 1 Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 173
+  },
+  {
+    "id": 207,
+    "name": "Rank 1 Glass Walker Gifts",
+    "slug": "giftglasswalker1",
+    "description": "A list of all Rank 1 Glass Walkers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Glass Walker Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftglasswalker/\">All Glass Walker Gifts</a>.",
+    "count": 16
+  },
+  {
+    "id": 22,
+    "name": "Rank 1 Homid Gifts",
+    "slug": "gifthomid1",
+    "description": "A list of all Rank 1 Homid Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For more, see <a href=\"http://www.wyrmfoe.com/tag/gifthomid/\">All Homid Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 68,
+    "name": "Rank 1 Lupus Gifts",
+    "slug": "giftlupus1",
+    "description": "A list of all Rank 1 Lupus breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Lupus Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftlupus/\">All Lupus Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 39,
+    "name": "Rank 1 Metis Gifts",
+    "slug": "giftmetis1",
+    "description": "A list of all Rank 1 Metis breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Metis Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftmetis/\">All Metis Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 116,
+    "name": "Rank 1 Philodox Gifts",
+    "slug": "giftphilodox1",
+    "description": "A list of all Rank 1 Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftphilodox/\">All Philodox Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 509,
+    "name": "Rank 1 Planetary Gifts",
+    "slug": "giftplanetary1",
+    "description": "A list of all Rank 1 Planetary Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/tag/giftplanetary/\">All Planetary Gifts</a> section.",
+    "count": 13
+  },
+  {
+    "id": 86,
+    "name": "Rank 1 Ragabash Gifts",
+    "slug": "giftragabash1",
+    "description": "A list of all Rank 1 Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftragabash/\">All Ragabash Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 221,
+    "name": "Rank 1 Red Talon Gifts",
+    "slug": "giftredtalon1",
+    "description": "A list of all Rank 1 Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftredtalon/\">All Red Talon Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 232,
+    "name": "Rank 1 Shadow Lord Gifts",
+    "slug": "giftshadowlord1",
+    "description": "A list of all Rank 1 Shadow Lord tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Shadow Lord Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftshadowlord/\">All Shadow Lord Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 241,
+    "name": "Rank 1 Silent Strider Gifts",
+    "slug": "giftsilentstrider1",
+    "description": "A list of all Rank 1 Silent Strider tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silent Strider Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilentstrider/\">All Silent Strider Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 253,
+    "name": "Rank 1 Silver Fang Gifts",
+    "slug": "giftsilverfang1",
+    "description": "A list of all Rank 1 Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilverfang/\">All Silver Fang Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 281,
+    "name": "Rank 1 Stargazer Gifts",
+    "slug": "giftstargazer1",
+    "description": "A list of all Rank 1 Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftstargazer/\">All Stargazer Gifts</A>.",
+    "count": 11
+  },
+  {
+    "id": 104,
+    "name": "Rank 1 Theurge Gifts",
+    "slug": "gifttheurge1",
+    "description": "A list of all Rank 1 Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/gifttheurge/\">All Theurge Gifts</a>.",
+    "count": 10
+  },
+  {
+    "id": 259,
+    "name": "Rank 1 Uktena Gifts",
+    "slug": "giftuktena1",
+    "description": "A list of all Rank 1 Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftuktena/\">All Uktena Gifts</a>.",
+    "count": 10
+  },
+  {
+    "id": 267,
+    "name": "Rank 1 Wendigo Gifts",
+    "slug": "giftwendigo1",
+    "description": "A list of all Rank 1 Wendigo tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Wendigo Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwendigo/\">All Wendigo Gifts</a>.",
+    "count": 10
+  },
+  {
+    "id": 589,
+    "name": "Rank 1 White Howler Gifts",
+    "slug": "giftwhitehowler1",
+    "description": "A list of all Rank 1 White Howler tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For White Howler Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwhitehowler/\">All White Howler Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 142,
+    "name": "Rank 2 Ahroun Gifts",
+    "slug": "giftahroun2",
+    "description": "A list of all Rank 2 Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftahroun/\">All Ahroun Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 154,
+    "name": "Rank 2 Black Furies Gifts",
+    "slug": "giftblackfuries2",
+    "description": "A list of all Rank 2 Black Furies tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Furies Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftblackfuries/\">All Black Furies Gifts</a>.",
+    "count": 14
+  },
+  {
+    "id": 276,
+    "name": "Rank 2 Black Spiral Dancer Gifts",
+    "slug": "giftbsd2",
+    "description": "A list of all Rank 2 Black Spiral Dancer Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Spiral Dancer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbsd/\">All Black Spiral Dancer Gifts</a>.",
+    "count": 18
+  },
+  {
+    "id": 165,
+    "name": "Rank 2 Bone Gnawers Gifts",
+    "slug": "giftbonegnawers2",
+    "description": "A list of all Rank 2 Bone Gnawers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bone Gnawers Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbonegnawers/\">All Bone Gnawers Gifts</a>.",
+    "count": 13
+  },
+  {
+    "id": 584,
+    "name": "Rank 2 Bunyip Gifts",
+    "slug": "giftbunyip2",
+    "description": "A list of all Rank 2 Bunyip tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bunyip Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbunyip/\">All Bunyip Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 176,
+    "name": "Rank 2 Children of Gaia Gifts",
+    "slug": "giftchildrenofgaia2",
+    "description": "A list of all Rank 2 Children of Gaia tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Children of Gaia Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftchildrenofgaia/\">All Children of Gaia Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 562,
+    "name": "Rank 2 Croatan Gifts",
+    "slug": "giftcroatan2",
+    "description": "A list of all Rank 2 Croatan tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Croatian Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftcroatian/\">All Croatian Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 187,
+    "name": "Rank 2 Fianna Gifts",
+    "slug": "giftfianna2",
+    "description": "A list of all Rank 2 Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">All Fianna Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 128,
+    "name": "Rank 2 Galliard Gifts",
+    "slug": "giftgalliard2",
+    "description": "A list of all Rank 2 Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgalliard/\">All Galliard Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 199,
+    "name": "Rank 2 Get of Fenris Gifts",
+    "slug": "giftgetoffenris2",
+    "description": "A list of all Rank 2 Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgetoffenris/\">All Get of Fenris Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 17,
+    "name": "Rank 2 Gifts",
+    "slug": "giftrank2",
+    "description": "A list of all Rank 2 Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 209
+  },
+  {
+    "id": 210,
+    "name": "Rank 2 Glass Walker Gifts",
+    "slug": "giftglasswalker2",
+    "description": "A list of all Rank 2 Glass Walkers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Glass Walker Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftglasswalker/\">All Glass Walker Gifts</a>.",
+    "count": 15
+  },
+  {
+    "id": 23,
+    "name": "Rank 2 Homid Gifts",
+    "slug": "gifthomid2",
+    "description": "A list of all Rank 2 Homid Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For more, see <a href=\"http://www.wyrmfoe.com/tag/gifthomid/\">All Homid Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 75,
+    "name": "Rank 2 Lupus Gifts",
+    "slug": "giftlupus2",
+    "description": "A list of all Rank 2 Lupus breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Lupus Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftlupus/\">All Lupus Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 45,
+    "name": "Rank 2 Metis Gifts",
+    "slug": "giftmetis2",
+    "description": "A list of all Rank 2 Metis breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Metis Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftmetis/\">All Metis Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 118,
+    "name": "Rank 2 Philodox Gifts",
+    "slug": "giftphilodox2",
+    "description": "A list of all Rank 2 Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftphilodox/\">All Philodox Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 511,
+    "name": "Rank 2 Planetary Gifts",
+    "slug": "giftplanetary2",
+    "description": "A list of all Rank 2 Planetary Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/tag/giftplanetary/\">All Planetary Gifts</a> section.",
+    "count": 13
+  },
+  {
+    "id": 92,
+    "name": "Rank 2 Ragabash Gifts",
+    "slug": "giftragabash2",
+    "description": "A list of all Rank 2 Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftragabash/\">All Ragabash Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 223,
+    "name": "Rank 2 Red Talon Gifts",
+    "slug": "giftredtalon2",
+    "description": "A list of all Rank 2 Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftredtalon/\">All Red Talon Gifts</a>.",
+    "count": 14
+  },
+  {
+    "id": 235,
+    "name": "Rank 2 Shadow Lord Gifts",
+    "slug": "giftshadowlord2",
+    "description": "A list of all Rank 2 Shadow Lord tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Shadow Lord Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftshadowlord/\">All Shadow Lord Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 243,
+    "name": "Rank 2 Silent Strider Gifts",
+    "slug": "giftsilentstrider2",
+    "description": "A list of all Rank 2 Silent Strider tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silent Strider Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilentstrider/\">All Silent Strider Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 254,
+    "name": "Rank 2 Silver Fang Gifts",
+    "slug": "giftsilverfang2",
+    "description": "A list of all Rank 2 Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilverfang/\">All Silver Fang Gifts</a>.",
+    "count": 18
+  },
+  {
+    "id": 283,
+    "name": "Rank 2 Stargazer Gifts",
+    "slug": "giftstargazer2",
+    "description": "A list of all Rank 2 Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftstargazer/\">All Stargazer Gifts</A>.",
+    "count": 11
+  },
+  {
+    "id": 106,
+    "name": "Rank 2 Theurge Gifts",
+    "slug": "gifttheurge2",
+    "description": "A list of all Rank 2 Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/gifttheurge/\">All Theurge Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 261,
+    "name": "Rank 2 Uktena Gifts",
+    "slug": "giftuktena2",
+    "description": "A list of all Rank 2 Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftuktena/\">All Uktena Gifts</a>.",
+    "count": 15
+  },
+  {
+    "id": 269,
+    "name": "Rank 2 Wendigo Gifts",
+    "slug": "giftwendigo2",
+    "description": "A list of all Rank 2 Wendigo tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Wendigo Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwendigo/\">All Wendigo Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 591,
+    "name": "Rank 2 White Howler Gifts",
+    "slug": "giftwhitehowler2",
+    "description": "A list of all Rank 2 White Howler tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For White Howler Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwhitehowler/\">All White Howler Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 143,
+    "name": "Rank 3 Ahroun Gifts",
+    "slug": "giftahroun3",
+    "description": "A list of all Rank 3 Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftahroun/\">All Ahroun Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 156,
+    "name": "Rank 3 Black Furies Gifts",
+    "slug": "giftblackfuries3",
+    "description": "A list of all Rank 3 Black Furies tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Furies Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftblackfuries/\">All Black Furies Gifts</a>.",
+    "count": 10
+  },
+  {
+    "id": 277,
+    "name": "Rank 3 Black Spiral Dancer Gifts",
+    "slug": "giftbsd3",
+    "description": "A list of all Rank 3 Black Spiral Dancer Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Spiral Dancer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbsd/\">All Black Spiral Dancer Gifts</a>.",
+    "count": 18
+  },
+  {
+    "id": 167,
+    "name": "Rank 3 Bone Gnawers Gifts",
+    "slug": "giftbonegnawers3",
+    "description": "A list of all Rank 3 Bone Gnawers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bone Gnawers Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbonegnawers/\">All Bone Gnawers Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 585,
+    "name": "Rank 3 Bunyip Gifts",
+    "slug": "giftbunyip3",
+    "description": "A list of all Rank 3 Bunyip tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bunyip Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbunyip/\">All Bunyip Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 177,
+    "name": "Rank 3 Children of Gaia Gifts",
+    "slug": "giftchildrenofgaia3",
+    "description": "A list of all Rank 3 Children of Gaia tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Children of Gaia Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftchildrenofgaia/\">All Children of Gaia Gifts</a>.",
+    "count": 13
+  },
+  {
+    "id": 563,
+    "name": "Rank 3 Croatan Gifts",
+    "slug": "giftcroatan3",
+    "description": "A list of all Rank 3 Croatan tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Croatian Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftcroatian/\">All Croatian Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 190,
+    "name": "Rank 3 Fianna Gifts",
+    "slug": "giftfianna3",
+    "description": "A list of all Rank 3 Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">All Fianna Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 131,
+    "name": "Rank 3 Galliard Gifts",
+    "slug": "giftgalliard3",
+    "description": "A list of all Rank 3 Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgalliard/\">All Galliard Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 201,
+    "name": "Rank 3 Get of Fenris Gifts",
+    "slug": "giftgetoffenris3",
+    "description": "A list of all Rank 3 Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgetoffenris/\">All Get of Fenris Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 28,
+    "name": "Rank 3 Gifts",
+    "slug": "giftrank3",
+    "description": "A list of all Rank 3 Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 190
+  },
+  {
+    "id": 213,
+    "name": "Rank 3 Glass Walker Gifts",
+    "slug": "giftglasswalker3",
+    "description": "A list of all Rank 3 Glass Walkers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Glass Walker Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftglasswalker/\">All Glass Walker Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 27,
+    "name": "Rank 3 Homid Gifts",
+    "slug": "gifthomid3",
+    "description": "A list of all Rank 2 Homid Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For more, see <a href=\"http://www.wyrmfoe.com/tag/gifthomid/\">All Homid Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 77,
+    "name": "Rank 3 Lupus Gifts",
+    "slug": "giftlupus3",
+    "description": "A list of all Rank 3 Lupus breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Lupus Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftlupus/\">All Lupus Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 52,
+    "name": "Rank 3 Metis Gifts",
+    "slug": "giftmetis3",
+    "description": "A list of all Rank 3 Metis breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Metis Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftmetis/\">All Metis Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 119,
+    "name": "Rank 3 Philodox Gifts",
+    "slug": "giftphilodox3",
+    "description": "A list of all Rank 3 Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftphilodox/\">All Philodox Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 512,
+    "name": "Rank 3 Planetary Gifts",
+    "slug": "giftplanetary3",
+    "description": "A list of all Rank 3 Planetary Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/tag/giftplanetary/\">All Planetary Gifts</a> section.",
+    "count": 13
+  },
+  {
+    "id": 96,
+    "name": "Rank 3 Ragabash Gifts",
+    "slug": "giftragabash3",
+    "description": "A list of all Rank 3 Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftragabash/\">All Ragabash Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 224,
+    "name": "Rank 3 Red Talon Gifts",
+    "slug": "giftredtalon3",
+    "description": "A list of all Rank 3 Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftredtalon/\">All Red Talon Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 236,
+    "name": "Rank 3 Shadow Lord Gifts",
+    "slug": "giftshadowlord3",
+    "description": "A list of all Rank 3 Shadow Lord tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Shadow Lord Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftshadowlord/\">All Shadow Lord Gifts</a>.",
+    "count": 13
+  },
+  {
+    "id": 247,
+    "name": "Rank 3 Silent Strider Gifts",
+    "slug": "giftsilentstrider3",
+    "description": "A list of all Rank 3 Silent Strider tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silent Strider Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilentstrider/\">All Silent Strider Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 255,
+    "name": "Rank 3 Silver Fang Gifts",
+    "slug": "giftsilverfang3",
+    "description": "A list of all Rank 3 Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilverfang/\">All Silver Fang Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 286,
+    "name": "Rank 3 Stargazer Gifts",
+    "slug": "giftstargazer3",
+    "description": "A list of all Rank 3 Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftstargazer/\">All Stargazer Gifts</A>.",
+    "count": 12
+  },
+  {
+    "id": 110,
+    "name": "Rank 3 Theurge Gifts",
+    "slug": "gifttheurge3",
+    "description": "A list of all Rank 3 Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/gifttheurge/\">All Theurge Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 263,
+    "name": "Rank 3 Uktena Gifts",
+    "slug": "giftuktena3",
+    "description": "A list of all Rank 3 Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftuktena/\">All Uktena Gifts</a>.",
+    "count": 13
+  },
+  {
+    "id": 271,
+    "name": "Rank 3 Wendigo Gifts",
+    "slug": "giftwendigo3",
+    "description": "A list of all Rank 3 Wendigo tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Wendigo Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwendigo/\">All Wendigo Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 592,
+    "name": "Rank 3 White Howler Gifts",
+    "slug": "giftwhitehowler3",
+    "description": "A list of all Rank 3 White Howler tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For White Howler Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwhitehowler/\">All White Howler Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 146,
+    "name": "Rank 4 Ahroun Gifts",
+    "slug": "giftahroun4",
+    "description": "A list of all Rank 4 Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftahroun/\">All Ahroun Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 157,
+    "name": "Rank 4 Black Furies Gifts",
+    "slug": "giftblackfuries4",
+    "description": "A list of all Rank 4 Black Furies tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Furies Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftblackfuries/\">All Black Furies Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 278,
+    "name": "Rank 4 Black Spiral Dancer Gifts",
+    "slug": "giftbsd4",
+    "description": "A list of all Rank 4 Black Spiral Dancer Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Spiral Dancer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbsd/\">All Black Spiral Dancer Gifts</a>.",
+    "count": 12
+  },
+  {
+    "id": 168,
+    "name": "Rank 4 Bone Gnawers Gifts",
+    "slug": "giftbonegnawers4",
+    "description": "A list of all Rank 4 Bone Gnawers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bone Gnawers Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbonegnawers/\">All Bone Gnawers Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 586,
+    "name": "Rank 4 Bunyip Gifts",
+    "slug": "giftbunyip4",
+    "description": "A list of all Rank 4 Bunyip tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bunyip Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbunyip/\">All Bunyip Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 178,
+    "name": "Rank 4 Children of Gaia Gifts",
+    "slug": "giftchildrenofgaia4",
+    "description": "A list of all Rank 4 Children of Gaia tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Children of Gaia Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftchildrenofgaia/\">All Children of Gaia Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 564,
+    "name": "Rank 4 Croatan Gifts",
+    "slug": "giftcroatan4",
+    "description": "A list of all Rank 4 Croatan tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Croatian Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftcroatian/\">All Croatian Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 192,
+    "name": "Rank 4 Fianna Gifts",
+    "slug": "giftfianna4",
+    "description": "A list of all Rank 4 Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">All Fianna Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 134,
+    "name": "Rank 4 Galliard Gifts",
+    "slug": "giftgalliard4",
+    "description": "A list of all Rank 4 Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgalliard/\">All Galliard Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 202,
+    "name": "Rank 4 Get of Fenris Gifts",
+    "slug": "giftgetoffenris4",
+    "description": "A list of all Rank 4 Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgetoffenris/\">All Get of Fenris Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 31,
+    "name": "Rank 4 Gifts",
+    "slug": "giftrank4",
+    "description": "A list of all Rank 4 Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 138
+  },
+  {
+    "id": 216,
+    "name": "Rank 4 Glass Walker Gifts",
+    "slug": "giftglasswalker4",
+    "description": "A list of all Rank 4 Glass Walkers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Glass Walker Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftglasswalker/\">All Glass Walker Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 32,
+    "name": "Rank 4 Homid Gifts",
+    "slug": "gifthomid4",
+    "description": "A list of all Rank 4 Homid Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For more, see <a href=\"http://www.wyrmfoe.com/tag/gifthomid/\">All Homid Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 79,
+    "name": "Rank 4 Lupus Gifts",
+    "slug": "giftlupus4",
+    "description": "A list of all Rank 4 Lupus breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Lupus Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftlupus/\">All Lupus Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 58,
+    "name": "Rank 4 Metis Gifts",
+    "slug": "giftmetis4",
+    "description": "A list of all Rank 4 Metis breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Metis Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftmetis/\">All Metis Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 122,
+    "name": "Rank 4 Philodox Gifts",
+    "slug": "giftphilodox4",
+    "description": "A list of all Rank 4 Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftphilodox/\">All Philodox Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 513,
+    "name": "Rank 4 Planetary Gifts",
+    "slug": "giftplanetary4",
+    "description": "A list of all Rank 4 Planetary Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/tag/giftplanetary/\">All Planetary Gifts</a> section.",
+    "count": 13
+  },
+  {
+    "id": 97,
+    "name": "Rank 4 Ragabash Gifts",
+    "slug": "giftragabash4",
+    "description": "A list of all Rank 4 Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftragabash/\">All Ragabash Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 226,
+    "name": "Rank 4 Red Talon Gifts",
+    "slug": "giftredtalon4",
+    "description": "A list of all Rank 4 Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftredtalon/\">All Red Talon Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 237,
+    "name": "Rank 4 Shadow Lord Gifts",
+    "slug": "giftshadowlord4",
+    "description": "A list of all Rank 4 Shadow Lord tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Shadow Lord Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftshadowlord/\">All Shadow Lord Gifts</a>.",
+    "count": 8
+  },
+  {
+    "id": 249,
+    "name": "Rank 4 Silent Strider Gifts",
+    "slug": "giftsilentstrider4",
+    "description": "A list of all Rank 4 Silent Strider tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silent Strider Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilentstrider/\">All Silent Strider Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 256,
+    "name": "Rank 4 Silver Fang Gifts",
+    "slug": "giftsilverfang4",
+    "description": "A list of all Rank 4 Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilverfang/\">All Silver Fang Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 282,
+    "name": "Rank 4 Stargazer Gifts",
+    "slug": "giftstargazer4",
+    "description": "A list of all Rank 4 Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftstargazer/\">All Stargazer Gifts</A>.",
+    "count": 9
+  },
+  {
+    "id": 111,
+    "name": "Rank 4 Theurge Gifts",
+    "slug": "gifttheurge4",
+    "description": "A list of all Rank 4 Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/gifttheurge/\">All Theurge Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 264,
+    "name": "Rank 4 Uktena Gifts",
+    "slug": "giftuktena4",
+    "description": "A list of all Rank 4 Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftuktena/\">All Uktena Gifts</a>.",
+    "count": 10
+  },
+  {
+    "id": 272,
+    "name": "Rank 4 Wendigo Gifts",
+    "slug": "giftwendigo4",
+    "description": "A list of all Rank 4 Wendigo tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Wendigo Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwendigo/\">All Wendigo Gifts</a>.",
+    "count": 9
+  },
+  {
+    "id": 593,
+    "name": "Rank 4 White Howler Gifts",
+    "slug": "giftwhitehowler4",
+    "description": "A list of all Rank 4 White Howler tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For White Howler Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwhitehowler/\">All White Howler Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 148,
+    "name": "Rank 5 Ahroun Gifts",
+    "slug": "giftahroun5",
+    "description": "A list of all Rank 5 Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftahroun/\">All Ahroun Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 158,
+    "name": "Rank 5 Black Furies Gifts",
+    "slug": "giftblackfuries5",
+    "description": "A list of all Rank 5 Black Furies tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Furies Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftblackfuries/\">All Black Furies Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 279,
+    "name": "Rank 5 Black Spiral Dancer Gifts",
+    "slug": "giftbsd5",
+    "description": "A list of all Rank 5 Black Spiral Dancer Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Black Spiral Dancer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbsd/\">All Black Spiral Dancer Gifts</a>.",
+    "count": 11
+  },
+  {
+    "id": 172,
+    "name": "Rank 5 Bone Gnawers Gifts",
+    "slug": "giftbonegnawers5",
+    "description": "A list of all Rank 5 Bone Gnawers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bone Gnawers Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbonegnawers/\">All Bone Gnawers Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 587,
+    "name": "Rank 5 Bunyip Gifts",
+    "slug": "giftbunyip5",
+    "description": "A list of all Rank 5 Bunyip tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Bunyip Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftbunyip/\">All Bunyip Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 181,
+    "name": "Rank 5 Children of Gaia Gifts",
+    "slug": "giftchildrenofgaia5",
+    "description": "A list of all Rank 5 Children of Gaia tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Children of Gaia Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftchildrenofgaia/\">All Children of Gaia Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 565,
+    "name": "Rank 5 Croatan Gifts",
+    "slug": "giftcroatan5",
+    "description": "A list of all Rank 5 Croatan tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Croatian Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftcroatian/\">All Croatian Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 194,
+    "name": "Rank 5 Fianna Gifts",
+    "slug": "giftfianna5",
+    "description": "A list of all Rank 5 Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">All Fianna Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 135,
+    "name": "Rank 5 Galliard Gifts",
+    "slug": "giftgalliard5",
+    "description": "A list of all Rank 5 Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgalliard/\">All Galliard Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 204,
+    "name": "Rank 5 Get of Fenris Gifts",
+    "slug": "giftgetoffenris5",
+    "description": "A list of all Rank 5 Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgetoffenris/\">All Get of Fenris Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 36,
+    "name": "Rank 5 Gifts",
+    "slug": "giftrank5",
+    "description": "A list of all Rank 5 Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 111
+  },
+  {
+    "id": 218,
+    "name": "Rank 5 Glass Walker Gifts",
+    "slug": "giftglasswalker5",
+    "description": "A list of all Rank 5 Glass Walkers tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Glass Walker Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftglasswalker/\">All Glass Walker Gifts</a>.",
+    "count": 10
+  },
+  {
+    "id": 37,
+    "name": "Rank 5 Homid Gifts",
+    "slug": "gifthomid5",
+    "description": "A list of all Rank 5 Homid Breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For more, see <a href=\"http://www.wyrmfoe.com/tag/gifthomid/\">All Homid Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 84,
+    "name": "Rank 5 Lupus Gifts",
+    "slug": "giftlupus5",
+    "description": "A list of all Rank 5 Lupus breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Lupus Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftlupus/\">All Lupus Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 62,
+    "name": "Rank 5 Metis Gifts",
+    "slug": "giftmetis5",
+    "description": "A list of all Rank 5 Metis breed Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Metis Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftmetis/\">All Metis Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 123,
+    "name": "Rank 5 Philodox Gifts",
+    "slug": "giftphilodox5",
+    "description": "A list of all Rank 5 Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftphilodox/\">All Philodox Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 514,
+    "name": "Rank 5 Planetary Gifts",
+    "slug": "giftplanetary5",
+    "description": "A list of all Rank 5 Planetary Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/tag/giftplanetary/\">All Planetary Gifts</a> section.",
+    "count": 13
+  },
+  {
+    "id": 99,
+    "name": "Rank 5 Ragabash Gifts",
+    "slug": "giftragabash5",
+    "description": "A list of all Rank 5 Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftragabash/\">All Ragabash Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 228,
+    "name": "Rank 5 Red Talon Gifts",
+    "slug": "giftredtalon5",
+    "description": "A list of all Rank 5 Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftredtalon/\">All Red Talon Gifts</a>.",
+    "count": 6
+  },
+  {
+    "id": 238,
+    "name": "Rank 5 Shadow Lord Gifts",
+    "slug": "giftshadowlord5",
+    "description": "A list of all Rank 5 Shadow Lord tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Shadow Lord Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftshadowlord/\">All Shadow Lord Gifts</a>.",
+    "count": 7
+  },
+  {
+    "id": 250,
+    "name": "Rank 5 Silent Strider Gifts",
+    "slug": "giftsilentstrider5",
+    "description": "A list of all Rank 5 Silent Strider tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silent Strider Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilentstrider/\">All Silent Strider Gifts</a>.",
+    "count": 4
+  },
+  {
+    "id": 257,
+    "name": "Rank 5 Silver Fang Gifts",
+    "slug": "giftsilverfang5",
+    "description": "A list of all Rank 5 Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilverfang/\">All Silver Fang Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 287,
+    "name": "Rank 5 Stargazer Gifts",
+    "slug": "giftstargazer5",
+    "description": "A list of all Rank 5 Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftstargazer/\">All Stargazer Gifts</A>.",
+    "count": 9
+  },
+  {
+    "id": 112,
+    "name": "Rank 5 Theurge Gifts",
+    "slug": "gifttheurge5",
+    "description": "A list of all Rank 5 Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/gifttheurge/\">All Theurge Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 260,
+    "name": "Rank 5 Uktena Gifts",
+    "slug": "giftuktena5",
+    "description": "A list of all Rank 5 Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftuktena/\">All Uktena Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 273,
+    "name": "Rank 5 Wendigo Gifts",
+    "slug": "giftwendigo5",
+    "description": "A list of all Rank 5 Wendigo tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Wendigo Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwendigo/\">All Wendigo Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 594,
+    "name": "Rank 5 White Howler Gifts",
+    "slug": "giftwhitehowler5",
+    "description": "A list of all Rank 5 White Howler tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For White Howler Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftwhitehowler/\">All White Howler Gifts</a>.",
+    "count": 5
+  },
+  {
+    "id": 423,
+    "name": "Rank 6 Ahroun Gifts",
+    "slug": "giftahroun6",
+    "description": "A list of all Rank 6 Ahroun Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ahroun Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftahroun/\">All Ahroun Gifts</a>.",
+    "count": 2
+  },
+  {
+    "id": 690,
+    "name": "Rank 6 Black Spiral Dancer Gifts",
+    "slug": "giftbsdrank6",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 442,
+    "name": "Rank 6 Fianna Gifts",
+    "slug": "giftfianna6",
+    "description": "A list of all Rank 6 Fianna tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Fianna Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftfianna/\">All Fianna Gifts</a>.",
+    "count": 1
+  },
+  {
+    "id": 420,
+    "name": "Rank 6 Galliard Gifts",
+    "slug": "giftgalliard6",
+    "description": "A list of all Rank 6 Galliard Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Galliard Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgalliard/\">All Galliard Gifts</a>.",
+    "count": 2
+  },
+  {
+    "id": 378,
+    "name": "Rank 6 Get of Fenris Gifts",
+    "slug": "giftgetoffenris6",
+    "description": "A list of all Rank 6 Get of Fenris tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Get of Fenris Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftgetoffenris/\">All Get of Fenris Gifts</a>.",
+    "count": 1
+  },
+  {
+    "id": 324,
+    "name": "Rank 6 Gifts",
+    "slug": "giftrank6",
+    "description": "A list of all Rank 6 Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Gifts of a different rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 15
+  },
+  {
+    "id": 418,
+    "name": "Rank 6 Philodox Gifts",
+    "slug": "giftphilodox6",
+    "description": "A list of all Rank 6 Philodox Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Philodox Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftphilodox/\">All Philodox Gifts</a>.",
+    "count": 1
+  },
+  {
+    "id": 410,
+    "name": "Rank 6 Ragabash Gifts",
+    "slug": "giftragabash6",
+    "description": "A list of all Rank 6 Ragabash Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Ragabash Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftragabash/\">All Ragabash Gifts</a>.",
+    "count": 1
+  },
+  {
+    "id": 404,
+    "name": "Rank 6 Red Talon Gifts",
+    "slug": "giftredtalon6",
+    "description": "A list of all Rank 6 Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftredtalon/\">All Red Talon Gifts</a>.",
+    "count": 2
+  },
+  {
+    "id": 323,
+    "name": "Rank 6 Silver Fang Gifts",
+    "slug": "giftsilverfang6",
+    "description": "A list of all Rank 6 Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftsilverfang/\">All Silver Fang Gifts</a>.",
+    "count": 1
+  },
+  {
+    "id": 541,
+    "name": "Rank 6 Stargazer Gifts",
+    "slug": "giftstargazer6",
+    "description": "A list of all Rank 6 Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftstargazer/\">All Stargazer Gifts</A>.",
+    "count": 1
+  },
+  {
+    "id": 414,
+    "name": "Rank 6 Theurge Gifts",
+    "slug": "gifttheurge6",
+    "description": "A list of all Rank 6 Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/gifttheurge/\">All Theurge Gifts</a>.",
+    "count": 3
+  },
+  {
+    "id": 505,
+    "name": "Rank 6 Uktena Gifts",
+    "slug": "giftuktena6",
+    "description": "A list of all Rank 6 Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of all ranks, see <a href=\"http://www.wyrmfoe.com/tag/giftuktena/\">All Uktena Gifts</a>.",
+    "count": 1
+  },
+  {
+    "id": 220,
+    "name": "Red Talon Gifts",
+    "slug": "giftredtalon",
+    "description": "A list of all Red Talon tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Red Talon Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 49
+  },
+  {
+    "id": 306,
+    "name": "repair",
+    "slug": "repair",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 35,
+    "name": "rituals",
+    "slug": "rituals",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 632,
+    "name": "Ronin Gifts",
+    "slug": "giftronin",
+    "description": "The Gifts of the tribeless Garou are often geared towards misdirection or escape. As exiles, the Ronin have to constantly stay on the move to avoid their many enemies. While it is difficult for a Ronin to learn Gifts, it is not impossible. While the tribes loathe the practice, some Ronin manage to teach each other Gifts in exchange for valuable consumables such as silver ammunition, talens, and, in many cases, money to get from one bus station to the next.",
+    "count": 5
+  },
+  {
+    "id": 399,
+    "name": "samina",
+    "slug": "samina",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 211,
+    "name": "science",
+    "slug": "science",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 547,
+    "name": "serpentfire",
+    "slug": "serpentfire",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 231,
+    "name": "Shadow Lord Gifts",
+    "slug": "giftshadowlord",
+    "description": "A list of all Shadow Lord tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Shadow Lord Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 50
+  },
+  {
+    "id": 240,
+    "name": "Silent Strider Gifts",
+    "slug": "giftsilentstrider",
+    "description": "A list of all Silent Strider tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silent Strider Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 38
+  },
+  {
+    "id": 252,
+    "name": "Silver Fang Gifts",
+    "slug": "giftsilverfang",
+    "description": "A list of all Silver Fang tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Silver Fang Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 50
+  },
+  {
+    "id": 707,
+    "name": "Singing Dog Gifts",
+    "slug": "giftsingingdog",
+    "description": "For the purposes of learning their Gifts, the Singing Dog pack is considered its own Tribe. It's not, but if an outsider learns their Gifts, they're considered out-of-Tribe Gifts for experience costs. Are they really their own Tribe? That's a good question. They have a couple of unique Gifts. They have a totem (Bird of Paradise) that's in addition to their pack totem (Singing Dog). So technically, they could be considered a Tribe, if only in the same way as the Hakken or Siberakh. But only four Singing Dogs exist.",
+    "count": 2
+  },
+  {
+    "id": 645,
+    "name": "Skin Dancer Gifts",
+    "slug": "giftskindancer",
+    "description": "A normal human (or kinfolk) can perform the Ritual of Sacred Rebirth (level 5 rite) -- which requires 5 Garou pelts -- to become a werewolf themselves. These werewolves are called Skin Dancers and are hated and hunted by Garou.\r\n\r\nWhile the totem-spirit broods of Gaian Garou will refuse to work with or assist the Skin Dancers in any manner, the Skin Dancers have, in the past, forged alliances with Banes and unassociated spirits with a modicum of success. In some cases, the Storyteller may opt to allow Black Spiral Dancer Gifts to be learned by Skin Dancers. While this is perhaps not the most desirable of arrangements for the Skin Dancer or, in fact, for the Banes involved, it is the most readily accessible avenue to spiritual power for the mock-werewolves.\r\n\r\nSkin Dancers have no rank, but the sort of spirits that instruct them can be convinced to teach them higher-level Gifts at an additional cost. Skin Dancers buy all Gifts (other than those specifically listed as Skin Dancer Gifts) higher than Level One at a cost of Gift level x 6.\r\n",
+    "count": 2
+  },
+  {
+    "id": 665,
+    "name": "social",
+    "slug": "social",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 155,
+    "name": "spiritaeolus",
+    "slug": "spiritaeolus",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 140,
+    "name": "spiritaerial",
+    "slug": "spiritaerial",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 209,
+    "name": "spiritair",
+    "slug": "spiritair",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 265,
+    "name": "spiritairelemental",
+    "slug": "spiritairelemental",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 568,
+    "name": "spiritalleycat",
+    "slug": "spiritalleycat",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 728,
+    "name": "spiritalligator",
+    "slug": "spiritalligator",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 580,
+    "name": "spiritaloe",
+    "slug": "spiritaloe",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 11,
+    "name": "spiritancestor",
+    "slug": "spiritancestor",
+    "description": "",
+    "count": 63
+  },
+  {
+    "id": 82,
+    "name": "spiritanimal",
+    "slug": "spiritanimal",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 391,
+    "name": "spiritant",
+    "slug": "spiritant",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 601,
+    "name": "spiritantlion",
+    "slug": "spiritantlion",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 42,
+    "name": "spiritany",
+    "slug": "spiritany",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 315,
+    "name": "spiritape",
+    "slug": "spiritape",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 649,
+    "name": "spiritarctic",
+    "slug": "spiritarctic",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 339,
+    "name": "spiritavatarofhestia",
+    "slug": "spiritavatarofhestia",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 316,
+    "name": "spiritbaboon",
+    "slug": "spiritbaboon",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 433,
+    "name": "spiritbadger",
+    "slug": "spiritbadger",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 297,
+    "name": "spiritbane",
+    "slug": "spiritbane",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 189,
+    "name": "spiritbanshee",
+    "slug": "spiritbanshee",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 490,
+    "name": "spiritbarrier",
+    "slug": "spiritbarrier",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 640,
+    "name": "spiritbat",
+    "slug": "spiritbat",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 81,
+    "name": "spiritbear",
+    "slug": "spiritbear",
+    "description": "",
+    "count": 14
+  },
+  {
+    "id": 392,
+    "name": "spiritbee",
+    "slug": "spiritbee",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 55,
+    "name": "spiritbird",
+    "slug": "spiritbird",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 499,
+    "name": "spiritbloodwarrior",
+    "slug": "spiritbloodwarrior",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 144,
+    "name": "spiritboar",
+    "slug": "spiritboar",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 356,
+    "name": "spiritbookworm",
+    "slug": "spiritbookworm",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 439,
+    "name": "spiritbrigid",
+    "slug": "spiritbrigid",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 328,
+    "name": "spiritbuffalo",
+    "slug": "spiritbuffalo",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 529,
+    "name": "spiritbutterfly",
+    "slug": "spiritbutterfly",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 246,
+    "name": "spiritcamel",
+    "slug": "spiritcamel",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 53,
+    "name": "spiritcat",
+    "slug": "spiritcat",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 606,
+    "name": "spiritcatfish",
+    "slug": "spiritcatfish",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 415,
+    "name": "spiritcelestine",
+    "slug": "spiritcelestine",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 87,
+    "name": "spiritchameleon",
+    "slug": "spiritchameleon",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 245,
+    "name": "spiritcheetah",
+    "slug": "spiritcheetah",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 496,
+    "name": "spiritchildofkamak",
+    "slug": "spiritchildofkamak",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 325,
+    "name": "spiritchimera",
+    "slug": "spiritchimera",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 114,
+    "name": "spiritchimerling",
+    "slug": "spiritchimerling",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 535,
+    "name": "spiritchu-mong",
+    "slug": "spiritchu-mong",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 395,
+    "name": "spiritcicada",
+    "slug": "spiritcicada",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 363,
+    "name": "spiritcityfather",
+    "slug": "spiritcityfather",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 362,
+    "name": "spiritcitymother",
+    "slug": "spiritcitymother",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 336,
+    "name": "spiritcobra",
+    "slug": "spiritcobra",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 217,
+    "name": "spiritcockroach",
+    "slug": "spiritcockroach",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 313,
+    "name": "spiritcomputer",
+    "slug": "spiritcomputer",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 130,
+    "name": "spiritcoyote",
+    "slug": "spiritcoyote",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 471,
+    "name": "spiritcrocodile",
+    "slug": "spiritcrocodile",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 109,
+    "name": "spiritcrow",
+    "slug": "spiritcrow",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 504,
+    "name": "spiritcuckoo",
+    "slug": "spiritcuckoo",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 440,
+    "name": "spiritdeath",
+    "slug": "spiritdeath",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 463,
+    "name": "spiritdecay",
+    "slug": "spiritdecay",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 464,
+    "name": "spiritdecomposition",
+    "slug": "spiritdecomposition",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 268,
+    "name": "spiritdeer",
+    "slug": "spiritdeer",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 706,
+    "name": "spiritdingo",
+    "slug": "spiritdingo",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 61,
+    "name": "spiritdisease",
+    "slug": "spiritdisease",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 93,
+    "name": "spiritdog",
+    "slug": "spiritdog",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 338,
+    "name": "spiritdonkey",
+    "slug": "spiritdonkey",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 175,
+    "name": "spiritdove",
+    "slug": "spiritdove",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 631,
+    "name": "spiritdragonkings",
+    "slug": "spiritdragonkings",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 191,
+    "name": "spiritdream",
+    "slug": "spiritdream",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 397,
+    "name": "spiritdust",
+    "slug": "spiritdust",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 322,
+    "name": "spiriteagle",
+    "slug": "spiriteagle",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 311,
+    "name": "spiritearth",
+    "slug": "spiritearth",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 124,
+    "name": "spiritearthelemental",
+    "slug": "spiritearthelemental",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 212,
+    "name": "spiritelecticityelemental",
+    "slug": "spiritelecticityelemental",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 576,
+    "name": "spiritelectriceel",
+    "slug": "spiritelectriceel",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 386,
+    "name": "spiritelectricity",
+    "slug": "spiritelectricity",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 666,
+    "name": "spiritelectricityelemental",
+    "slug": "spiritelectricityelemental",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 40,
+    "name": "spiritelemental",
+    "slug": "spiritelemental",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 447,
+    "name": "spiritelephant",
+    "slug": "spiritelephant",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 361,
+    "name": "spiritelvis",
+    "slug": "spiritelvis",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 536,
+    "name": "spiritengling",
+    "slug": "spiritengling",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 326,
+    "name": "spiritenigma",
+    "slug": "spiritenigma",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 411,
+    "name": "spiritenigmatic",
+    "slug": "spiritenigmatic",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 412,
+    "name": "spiriterebus",
+    "slug": "spiriterebus",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 196,
+    "name": "spiritfaerie",
+    "slug": "spiritfaerie",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 117,
+    "name": "spiritfalcon",
+    "slug": "spiritfalcon",
+    "description": "",
+    "count": 18
+  },
+  {
+    "id": 145,
+    "name": "spiritfear",
+    "slug": "spiritfear",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 662,
+    "name": "spiritfeline",
+    "slug": "spiritfeline",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 205,
+    "name": "spiritfenris",
+    "slug": "spiritfenris",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 10,
+    "name": "spiritfire",
+    "slug": "spiritfire",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 481,
+    "name": "spiritfirebird",
+    "slug": "spiritfirebird",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 149,
+    "name": "spiritfireelemental",
+    "slug": "spiritfireelemental",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 502,
+    "name": "spiritfirefly",
+    "slug": "spiritfirefly",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 262,
+    "name": "spiritfish",
+    "slug": "spiritfish",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 660,
+    "name": "spiritflower",
+    "slug": "spiritflower",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 295,
+    "name": "spiritfly",
+    "slug": "spiritfly",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 613,
+    "name": "spiritfog",
+    "slug": "spiritfog",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 438,
+    "name": "spiritfortune",
+    "slug": "spiritfortune",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 90,
+    "name": "spiritfox",
+    "slug": "spiritfox",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 70,
+    "name": "spiritfrog",
+    "slug": "spiritfrog",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 422,
+    "name": "spiritfury",
+    "slug": "spiritfury",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 229,
+    "name": "spiritgaia",
+    "slug": "spiritgaia",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 425,
+    "name": "spiritgaian",
+    "slug": "spiritgaian",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 647,
+    "name": "spiritgecko",
+    "slug": "spiritgecko",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 727,
+    "name": "spiritgilamonster",
+    "slug": "spiritgilamonster",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 183,
+    "name": "spiritgladechild",
+    "slug": "spiritgladechild",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 382,
+    "name": "spiritglass",
+    "slug": "spiritglass",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 616,
+    "name": "spiritgoat",
+    "slug": "spiritgoat",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 193,
+    "name": "spiritgrain",
+    "slug": "spiritgrain",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 234,
+    "name": "spiritgrandfatherthunder",
+    "slug": "spiritgrandfatherthunder",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 500,
+    "name": "spiritgreatgreencheese",
+    "slug": "spiritgreatgreencheese",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 364,
+    "name": "spiritgreattrasheap",
+    "slug": "spiritgreattrasheap",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 18,
+    "name": "spiritgremlin",
+    "slug": "spiritgremlin",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 113,
+    "name": "spiritgriffin",
+    "slug": "spiritgriffin",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 655,
+    "name": "spirithare",
+    "slug": "spirithare",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 726,
+    "name": "spiritharrier",
+    "slug": "spiritharrier",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 50,
+    "name": "spirithate",
+    "slug": "spirithate",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 419,
+    "name": "spirithawk",
+    "slug": "spirithawk",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 303,
+    "name": "spirithearth",
+    "slug": "spirithearth",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 182,
+    "name": "spirithelios",
+    "slug": "spirithelios",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 346,
+    "name": "spirithen",
+    "slug": "spirithen",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 491,
+    "name": "spiritheron",
+    "slug": "spiritheron",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 302,
+    "name": "spirithome",
+    "slug": "spirithome",
+    "description": "",
+    "count": 0
+  },
+  {
+    "id": 320,
+    "name": "spirithorse",
+    "slug": "spirithorse",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 345,
+    "name": "spirithound",
+    "slug": "spirithound",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 195,
+    "name": "spirithuntsman",
+    "slug": "spirithuntsman",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 147,
+    "name": "spirithyena",
+    "slug": "spirithyena",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 472,
+    "name": "spiritibis",
+    "slug": "spiritibis",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 650,
+    "name": "spiritice",
+    "slug": "spiritice",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 480,
+    "name": "spiriticeelemental",
+    "slug": "spiriticeelemental",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 107,
+    "name": "spiritincarna",
+    "slug": "spiritincarna",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 33,
+    "name": "spiritinsect",
+    "slug": "spiritinsect",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 318,
+    "name": "spiritjackal",
+    "slug": "spiritjackal",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 248,
+    "name": "spiritjackrabbit",
+    "slug": "spiritjackrabbit",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 417,
+    "name": "spiritjustice",
+    "slug": "spiritjustice",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 546,
+    "name": "spiritkundalinisnake",
+    "slug": "spiritkundalinisnake",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 575,
+    "name": "spiritlamb",
+    "slug": "spiritlamb",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 488,
+    "name": "spiritleshii",
+    "slug": "spiritleshii",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 550,
+    "name": "spiritlightning",
+    "slug": "spiritlightning",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 80,
+    "name": "spiritlion",
+    "slug": "spiritlion",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 291,
+    "name": "spiritlizard",
+    "slug": "spiritlizard",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 164,
+    "name": "spiritlostdog",
+    "slug": "spiritlostdog",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 409,
+    "name": "spiritluna",
+    "slug": "spiritluna",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 63,
+    "name": "spiritlune",
+    "slug": "spiritlune",
+    "description": "",
+    "count": 23
+  },
+  {
+    "id": 661,
+    "name": "spiritlynx",
+    "slug": "spiritlynx",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 65,
+    "name": "spiritmadness",
+    "slug": "spiritmadness",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 100,
+    "name": "spiritmagpie",
+    "slug": "spiritmagpie",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 341,
+    "name": "spiritmammatus",
+    "slug": "spiritmammatus",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 186,
+    "name": "spiritmarsh",
+    "slug": "spiritmarsh",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 486,
+    "name": "spiritmerlin",
+    "slug": "spiritmerlin",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 383,
+    "name": "spiritmetal",
+    "slug": "spiritmetal",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 312,
+    "name": "spiritmetalelemental",
+    "slug": "spiritmetalelemental",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 41,
+    "name": "spiritmetis",
+    "slug": "spiritmetis",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 331,
+    "name": "spiritmockingbird",
+    "slug": "spiritmockingbird",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 46,
+    "name": "spiritmole",
+    "slug": "spiritmole",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 384,
+    "name": "spiritmoney",
+    "slug": "spiritmoney",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 179,
+    "name": "spiritmongoose",
+    "slug": "spiritmongoose",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 293,
+    "name": "spiritmonkey",
+    "slug": "spiritmonkey",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 416,
+    "name": "spiritmoon",
+    "slug": "spiritmoon",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 530,
+    "name": "spiritmoth",
+    "slug": "spiritmoth",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 468,
+    "name": "spiritmountainlion",
+    "slug": "spiritmountainlion",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 285,
+    "name": "spiritmouse",
+    "slug": "spiritmouse",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 371,
+    "name": "spiritmule",
+    "slug": "spiritmule",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 653,
+    "name": "spiritmyeegun",
+    "slug": "spiritmyeegun",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 225,
+    "name": "spiritnaturalelemental",
+    "slug": "spiritnaturalelemental",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 127,
+    "name": "spiritnature",
+    "slug": "spiritnature",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 214,
+    "name": "spiritnetspider",
+    "slug": "spiritnetspider",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 239,
+    "name": "spiritnight",
+    "slug": "spiritnight",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 372,
+    "name": "spiritnightingale",
+    "slug": "spiritnightingale",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 101,
+    "name": "spiritnone",
+    "slug": "spiritnone",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 470,
+    "name": "spiritnorthstar",
+    "slug": "spiritnorthstar",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 598,
+    "name": "spiritoctupus",
+    "slug": "spiritoctupus",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 307,
+    "name": "spiritopossum",
+    "slug": "spiritopossum",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 579,
+    "name": "spiritorca",
+    "slug": "spiritorca",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 483,
+    "name": "spiritosprey",
+    "slug": "spiritosprey",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 56,
+    "name": "spiritowl",
+    "slug": "spiritowl",
+    "description": "",
+    "count": 18
+  },
+  {
+    "id": 578,
+    "name": "spiritox",
+    "slug": "spiritox",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 319,
+    "name": "spiritpackrat",
+    "slug": "spiritpackrat",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 98,
+    "name": "spiritpain",
+    "slug": "spiritpain",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 30,
+    "name": "spiritpatternspider",
+    "slug": "spiritpatternspider",
+    "description": "",
+    "count": 14
+  },
+  {
+    "id": 369,
+    "name": "spiritpeace",
+    "slug": "spiritpeace",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 153,
+    "name": "spiritpegasus",
+    "slug": "spiritpegasus",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 730,
+    "name": "spiritpelican",
+    "slug": "spiritpelican",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 624,
+    "name": "spiritpenguin",
+    "slug": "spiritpenguin",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 493,
+    "name": "spiritperegrinefalcon",
+    "slug": "spiritperegrinefalcon",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 352,
+    "name": "spiritpersephone",
+    "slug": "spiritpersephone",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 304,
+    "name": "spiritpigeon",
+    "slug": "spiritpigeon",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 551,
+    "name": "spiritpine",
+    "slug": "spiritpine",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 446,
+    "name": "spiritplant",
+    "slug": "spiritplant",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 599,
+    "name": "spiritplatypus",
+    "slug": "spiritplatypus",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 549,
+    "name": "spiritpolarbear",
+    "slug": "spiritpolarbear",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 59,
+    "name": "spiritporcupine",
+    "slug": "spiritporcupine",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 607,
+    "name": "spiritpossum",
+    "slug": "spiritpossum",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 222,
+    "name": "spiritpredator",
+    "slug": "spiritpredator",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 460,
+    "name": "spiritprey",
+    "slug": "spiritprey",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 405,
+    "name": "spiritprogenitorwolf",
+    "slug": "spiritprogenitorwolf",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 659,
+    "name": "spiritptarmigan",
+    "slug": "spiritptarmigan",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 664,
+    "name": "spiritquetzalcoatl",
+    "slug": "spiritquetzalcoatl",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 188,
+    "name": "spiritrabbit",
+    "slug": "spiritrabbit",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 89,
+    "name": "spiritraccoon",
+    "slug": "spiritraccoon",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 421,
+    "name": "spiritrage",
+    "slug": "spiritrage",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 329,
+    "name": "spiritrain",
+    "slug": "spiritrain",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 608,
+    "name": "spiritrainbowserpent",
+    "slug": "spiritrainbowserpent",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 25,
+    "name": "spiritram",
+    "slug": "spiritram",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 169,
+    "name": "spiritrat",
+    "slug": "spiritrat",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 294,
+    "name": "spiritrattlesnake",
+    "slug": "spiritrattlesnake",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 288,
+    "name": "spiritraven",
+    "slug": "spiritraven",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 244,
+    "name": "spiritroadrunner",
+    "slug": "spiritroadrunner",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 436,
+    "name": "spiritsalmon",
+    "slug": "spiritsalmon",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 501,
+    "name": "spiritsea",
+    "slug": "spiritsea",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 603,
+    "name": "spiritseahorse",
+    "slug": "spiritseahorse",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 538,
+    "name": "spiritshadow",
+    "slug": "spiritshadow",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 709,
+    "name": "spiritsingingdog",
+    "slug": "spiritsingingdog",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 567,
+    "name": "spiritskunk",
+    "slug": "spiritskunk",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 24,
+    "name": "spiritsnake",
+    "slug": "spiritsnake",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 615,
+    "name": "spiritsnow",
+    "slug": "spiritsnow",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 299,
+    "name": "spiritsongbird",
+    "slug": "spiritsongbird",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 284,
+    "name": "spiritsparrow",
+    "slug": "spiritsparrow",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 478,
+    "name": "spiritsphinx",
+    "slug": "spiritsphinx",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 60,
+    "name": "spiritspider",
+    "slug": "spiritspider",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 374,
+    "name": "spiritsquirrel",
+    "slug": "spiritsquirrel",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 441,
+    "name": "spiritstag",
+    "slug": "spiritstag",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 602,
+    "name": "spiritstar",
+    "slug": "spiritstar",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 166,
+    "name": "spiritstinkbug",
+    "slug": "spiritstinkbug",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 658,
+    "name": "spiritstoat",
+    "slug": "spiritstoat",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 484,
+    "name": "spiritstoneelemental",
+    "slug": "spiritstoneelemental",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 203,
+    "name": "spiritstorm",
+    "slug": "spiritstorm",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 233,
+    "name": "spiritstormcrow",
+    "slug": "spiritstormcrow",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 150,
+    "name": "spiritsun",
+    "slug": "spiritsun",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 208,
+    "name": "spirittechnological",
+    "slug": "spirittechnological",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 577,
+    "name": "spirittelevision",
+    "slug": "spirittelevision",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 305,
+    "name": "spirittermite",
+    "slug": "spirittermite",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 317,
+    "name": "spirittoad",
+    "slug": "spirittoad",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 66,
+    "name": "spirittotem",
+    "slug": "spirittotem",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 163,
+    "name": "spirittrash",
+    "slug": "spirittrash",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 292,
+    "name": "spirittree",
+    "slug": "spirittree",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 332,
+    "name": "spirittrickster",
+    "slug": "spirittrickster",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 648,
+    "name": "spirittrout",
+    "slug": "spirittrout",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 333,
+    "name": "spirittruth",
+    "slug": "spirittruth",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 427,
+    "name": "spiritturtle",
+    "slug": "spiritturtle",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 78,
+    "name": "spirituktena",
+    "slug": "spirituktena",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 105,
+    "name": "spiritunicorn",
+    "slug": "spiritunicorn",
+    "description": "",
+    "count": 21
+  },
+  {
+    "id": 309,
+    "name": "spiriturban",
+    "slug": "spiriturban",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 215,
+    "name": "spiriturbanelemental",
+    "slug": "spiriturbanelemental",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 171,
+    "name": "spiritvermin",
+    "slug": "spiritvermin",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 733,
+    "name": "spiritvuluture",
+    "slug": "spiritvuluture",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 359,
+    "name": "spiritwanderlust",
+    "slug": "spiritwanderlust",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 376,
+    "name": "spiritwar",
+    "slug": "spiritwar",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 334,
+    "name": "spiritwasp",
+    "slug": "spiritwasp",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 398,
+    "name": "spiritwater",
+    "slug": "spiritwater",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 401,
+    "name": "spiritwaterelemental",
+    "slug": "spiritwaterelemental",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 34,
+    "name": "spiritweaver",
+    "slug": "spiritweaver",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 270,
+    "name": "spiritwendigo",
+    "slug": "spiritwendigo",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 230,
+    "name": "spiritwilderness",
+    "slug": "spiritwilderness",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 120,
+    "name": "spiritwind",
+    "slug": "spiritwind",
+    "description": "",
+    "count": 14
+  },
+  {
+    "id": 340,
+    "name": "spiritwine",
+    "slug": "spiritwine",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 408,
+    "name": "spiritwisdom",
+    "slug": "spiritwisdom",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 73,
+    "name": "spiritwolf",
+    "slug": "spiritwolf",
+    "description": "",
+    "count": 48
+  },
+  {
+    "id": 403,
+    "name": "spiritwolfavatar",
+    "slug": "spiritwolfavatar",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 133,
+    "name": "spiritwolverine",
+    "slug": "spiritwolverine",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 310,
+    "name": "spiritworm",
+    "slug": "spiritworm",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 301,
+    "name": "spiritwyld",
+    "slug": "spiritwyld",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 159,
+    "name": "spiritwyldling",
+    "slug": "spiritwyldling",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 625,
+    "name": "spitipatternspider",
+    "slug": "spitipatternspider",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 72,
+    "name": "stamina",
+    "slug": "stamina",
+    "description": "",
+    "count": 43
+  },
+  {
+    "id": 280,
+    "name": "Stargazer Gifts",
+    "slug": "giftstargazer",
+    "description": "A list of all Stargazer tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Stargazer Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 51
+  },
+  {
+    "id": 88,
+    "name": "stealth",
+    "slug": "stealth",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 170,
+    "name": "streetwise",
+    "slug": "streetwise",
+    "description": "",
+    "count": 9
+  },
+  {
+    "id": 47,
+    "name": "strength",
+    "slug": "strength",
+    "description": "",
+    "count": 12
+  },
+  {
+    "id": 14,
+    "name": "subterfuge",
+    "slug": "subterfuge",
+    "description": "",
+    "count": 35
+  },
+  {
+    "id": 162,
+    "name": "survival",
+    "slug": "survival",
+    "description": "",
+    "count": 26
+  },
+  {
+    "id": 103,
+    "name": "Theurge Gifts",
+    "slug": "gifttheurge",
+    "description": "A list of all Theurge Auspice Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Theurge Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 46
+  },
+  {
+    "id": 457,
+    "name": "tribebookblackfuries",
+    "slug": "tribebookblackfuries",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 337,
+    "name": "tribebookblackfuriesrevised",
+    "slug": "tribebookblackfuriesrevised",
+    "description": "",
+    "count": 18
+  },
+  {
+    "id": 449,
+    "name": "tribebookbonegnawers",
+    "slug": "tribebookbonegnawers",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 355,
+    "name": "tribebookbonegnawersrevised",
+    "slug": "tribebookbonegnawersrevised",
+    "description": "",
+    "count": 23
+  },
+  {
+    "id": 448,
+    "name": "tribebookchildrenofgaia",
+    "slug": "tribebookchildrenofgaia",
+    "description": "",
+    "count": 3
+  },
+  {
+    "id": 367,
+    "name": "tribebookchildrenofgaiarevised",
+    "slug": "tribebookchildrenofgaiarevised",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 437,
+    "name": "tribebookfianna",
+    "slug": "tribebookfianna",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 435,
+    "name": "tribebookfiannarevised",
+    "slug": "tribebookfiannarevised",
+    "description": "",
+    "count": 10
+  },
+  {
+    "id": 443,
+    "name": "tribebookgetoffenris",
+    "slug": "tribebookgetoffenris",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 373,
+    "name": "tribebookgetoffenrisrevised",
+    "slug": "tribebookgetoffenrisrevised",
+    "description": "",
+    "count": 8
+  },
+  {
+    "id": 444,
+    "name": "tribebookglasswalker",
+    "slug": "tribebookglasswalker",
+    "description": "",
+    "count": 4
+  },
+  {
+    "id": 622,
+    "name": "tribebookglasswalkerrevised",
+    "slug": "tribebookglasswalkerrevised",
+    "description": "",
+    "count": 16
+  },
+  {
+    "id": 381,
+    "name": "tribebookglasswalkersrevised",
+    "slug": "tribebookglasswalkersrevised",
+    "description": "",
+    "count": 14
+  },
+  {
+    "id": 458,
+    "name": "tribebookredtalon",
+    "slug": "tribebookredtalon",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 400,
+    "name": "tribebookredtalonrevised",
+    "slug": "tribebookredtalonrevised",
+    "description": "",
+    "count": 23
+  },
+  {
+    "id": 450,
+    "name": "tribebookshadowlord",
+    "slug": "tribebookshadowlord",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 393,
+    "name": "tribebookshadowlordrevised",
+    "slug": "tribebookshadowlordrevised",
+    "description": "",
+    "count": 16
+  },
+  {
+    "id": 477,
+    "name": "tribebooksilentstriders",
+    "slug": "tribebooksilentstriders",
+    "description": "",
+    "count": 2
+  },
+  {
+    "id": 469,
+    "name": "tribebooksilentstridersrevised",
+    "slug": "tribebooksilentstridersrevised",
+    "description": "",
+    "count": 14
+  },
+  {
+    "id": 479,
+    "name": "tribebooksilverfangsrevised",
+    "slug": "tribebooksilverfangsrevised",
+    "description": "",
+    "count": 30
+  },
+  {
+    "id": 646,
+    "name": "tribebookstargazer2nd",
+    "slug": "tribebookstargazer2nd",
+    "description": "",
+    "count": 1
+  },
+  {
+    "id": 527,
+    "name": "tribebookstargazers",
+    "slug": "tribebookstargazers",
+    "description": "",
+    "count": 11
+  },
+  {
+    "id": 531,
+    "name": "tribebookstargazersrevised",
+    "slug": "tribebookstargazersrevised",
+    "description": "",
+    "count": 22
+  },
+  {
+    "id": 545,
+    "name": "tribebookstargazersrevised2",
+    "slug": "tribebookstargazersrevised2",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 553,
+    "name": "tribebookuktena",
+    "slug": "tribebookuktena",
+    "description": "",
+    "count": 7
+  },
+  {
+    "id": 503,
+    "name": "tribebookuktenarevised",
+    "slug": "tribebookuktenarevised",
+    "description": "",
+    "count": 17
+  },
+  {
+    "id": 559,
+    "name": "tribebookwendigo",
+    "slug": "tribebookwendigo",
+    "description": "",
+    "count": 5
+  },
+  {
+    "id": 548,
+    "name": "tribebookwendigorevised",
+    "slug": "tribebookwendigorevised",
+    "description": "",
+    "count": 19
+  },
+  {
+    "id": 610,
+    "name": "tribebookwhitehowler",
+    "slug": "tribebookwhitehowler",
+    "description": "",
+    "count": 6
+  },
+  {
+    "id": 258,
+    "name": "Uktena Gifts",
+    "slug": "giftuktena",
+    "description": "A list of all Uktena tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Uktena Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 52
+  },
+  {
+    "id": 266,
+    "name": "Wendigo GIfts",
+    "slug": "giftwendigo",
+    "description": "A list of all Wendigo tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For Wendigo Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 43
+  },
+  {
+    "id": 588,
+    "name": "White Howler Gifts",
+    "slug": "giftwhitehowler",
+    "description": "A list of all White Howler tribe Gifts for Werewolf: the Apocalypse, compiled from all source books, using the revised edition of books when available. For White Howler Gifts of a specific rank, see the <a href=\"http://www.wyrmfoe.com/werewolf-gifts/\">Werewolf Gifts</a> section.",
+    "count": 27
+  },
+  {
+    "id": 57,
+    "name": "willpower",
+    "slug": "willpower",
+    "description": "",
+    "count": 105
+  },
+  {
+    "id": 95,
+    "name": "wits",
+    "slug": "wits",
+    "description": "",
+    "count": 60
+  }
+]
