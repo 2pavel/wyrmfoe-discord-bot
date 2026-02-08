@@ -41,3 +41,7 @@ export function getRollResultMessage(roll: RollResult) {
     `\n**Successes: ${roll.successes}**`
   );
 }
+
+export function isDicePoolValid(dicePool: number): boolean {
+  return !(isNaN(dicePool) || dicePool <= 0 || dicePool > 100);
+}

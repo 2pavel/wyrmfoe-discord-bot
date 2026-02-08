@@ -2,6 +2,7 @@ import {
   ActionRowBuilder,
   Client,
   LabelBuilder,
+  MessageFlags,
   ModalBuilder,
   TextInputBuilder,
   TextInputStyle,
@@ -10,7 +11,11 @@ import { deployCommands } from "./deploy-commands";
 import { commands } from "./commands";
 import { config } from "./config";
 import wyrmfoeTags from "../resources/filteredTags.json";
-import { getRollResultMessage, rollDice } from "./utils/roll_utils";
+import {
+  getRollResultMessage,
+  isDicePoolValid,
+  rollDice,
+} from "./utils/roll_utils";
 
 const client = new Client({
   intents: ["Guilds", "GuildMessages", "DirectMessages"],
@@ -76,27 +81,52 @@ client.on("interactionCreate", async (interaction) => {
   if (!interaction.isButton()) return;
 
   if (interaction.customId.startsWith("difficulty_")) {
-    const difficulty = interaction.customId.split("_")[1];
+    const [, difficultyStr, dicePoolStr] = interaction.customId.split("_");
 
-    const modal = new ModalBuilder()
-      .setCustomId(`dice_modal_${difficulty}`)
-      .setTitle("Enter Dice Pool");
+    const difficulty = Number(difficultyStr);
+    const dicePool = Number(dicePoolStr);
+    console.log(`${interaction.customId}`);
+    console.log(`Difficulty: ${difficulty}, Dice Pool: ${dicePool}`);
 
-    const diceInput = new TextInputBuilder()
-      .setCustomId("dice_pool")
-      .setStyle(TextInputStyle.Short)
-      .setPlaceholder("Enter number of dice")
-      .setRequired(true);
+    if (!isDicePoolValid(dicePool)) {
+      await interaction.reply({
+        content: "Nie kombinuj",
+        flags: MessageFlags.Ephemeral,
+      });
+      return;
+    }
 
-    const diceLabel = new LabelBuilder()
-      .setLabel("Dice Pool")
-      .setTextInputComponent(diceInput);
-
-    modal.addLabelComponents(diceLabel);
-
-    await interaction.showModal(modal);
+    const rollResult = rollDice(dicePool, difficulty);
+    await interaction.reply(getRollResultMessage(rollResult));
   }
 });
+
+// Handler for difficulty buttons in the "roll" command with modal display
+// client.on("interactionCreate", async (interaction) => {
+//   if (!interaction.isButton()) return;
+
+//   if (interaction.customId.startsWith("difficulty_")) {
+//     const difficulty = interaction.customId.split("_")[1];
+
+//     const modal = new ModalBuilder()
+//       .setCustomId(`dice_modal_${difficulty}`)
+//       .setTitle("Enter Dice Pool");
+
+//     const diceInput = new TextInputBuilder()
+//       .setCustomId("dice_pool")
+//       .setStyle(TextInputStyle.Short)
+//       .setPlaceholder("Enter number of dice")
+//       .setRequired(true);
+
+//     const diceLabel = new LabelBuilder()
+//       .setLabel("Dice Pool")
+//       .setTextInputComponent(diceInput);
+
+//     modal.addLabelComponents(diceLabel);
+
+//     await interaction.showModal(modal);
+//   }
+// });
 
 // Handle modal submission for dice rolls
 client.on("interactionCreate", async (interaction) => {
@@ -104,7 +134,8 @@ client.on("interactionCreate", async (interaction) => {
 
   if (interaction.customId.startsWith("dice_modal_")) {
     const difficulty = Number(interaction.customId.split("_")[2]);
-    const dicePool = Number(interaction.fields.getTextInputValue("dice_pool"));
+    // const dicePool = Number(interaction.fields.getTextInputValue("dice_pool"));
+    const dicePool = Number(interaction.fields.getTextInputValue(""));
 
     if (isNaN(dicePool) || dicePool <= 0) {
       return interaction.reply({

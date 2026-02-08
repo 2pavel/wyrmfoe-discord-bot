@@ -10,15 +10,24 @@ import {
 
 export const data = new SlashCommandBuilder()
   .setName("roll")
-  .setDescription("Roll the dice");
+  .setDescription("Roll the dice")
+  .addIntegerOption((option) =>
+    option
+      .setName("dice_pool")
+      .setDescription("How many dice to roll?")
+      .setMinValue(1)
+      .setMaxValue(100)
+      .setRequired(true),
+  );
 
 export async function execute(interaction: ChatInputCommandInteraction) {
+  const dicePool = interaction.options.getInteger("dice_pool", true);
   const difficultyButtons = [];
   const rows: ActionRowBuilder<MessageActionRowComponentBuilder>[] = [];
 
   for (let i = 1; i <= 10; i++) {
     const button = new ButtonBuilder()
-      .setCustomId(`difficulty_${i}`)
+      .setCustomId(`difficulty_${i}_${dicePool}`)
       .setLabel(`${i}`)
       .setStyle(ButtonStyle.Primary);
 
