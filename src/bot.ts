@@ -1,6 +1,6 @@
 import {
-  ActionRowBuilder,
   Client,
+  GatewayIntentBits,
   LabelBuilder,
   MessageFlags,
   ModalBuilder,
@@ -18,7 +18,12 @@ import {
 } from "./utils/roll_utils";
 
 const client = new Client({
-  intents: ["Guilds", "GuildMessages", "DirectMessages"],
+  intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.DirectMessages,
+    GatewayIntentBits.GuildVoiceStates,
+  ],
 });
 
 client.once("clientReady", async () => {
@@ -53,12 +58,9 @@ client.on("interactionCreate", async (interaction) => {
   if (interaction.commandName !== "browse") return;
 
   const focusedValue = interaction.options.getFocused();
-  // const parts = focusedValue.split(/[,\s]+/);
-  // const current = parts[parts.length - 1]?.toLowerCase() ?? "";
   if (focusedValue.length < 3) return;
 
   console.log(`Focused: ${focusedValue}`);
-  // console.log(`Current: ${current}`);
 
   const filtered = wyrmfoeTags
     .filter((tag) =>
@@ -68,9 +70,7 @@ client.on("interactionCreate", async (interaction) => {
 
   const results = filtered.map((tag) => ({
     name: `${tag.name}`,
-    // name: `${tag.name}`,
     value: tag.id.toString(),
-    // value: [...parts.slice(0, -1), tag].join(" "),
   }));
 
   interaction.respond(results).catch(() => {});
