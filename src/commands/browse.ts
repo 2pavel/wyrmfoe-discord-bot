@@ -33,7 +33,6 @@ export async function execute(interaction: ChatInputCommandInteraction) {
 
   fs.writeFile(
     path.resolve("output", "tagBrowseResult"),
-    // JSON.stringify(filteredData, null, 2),
     msgToSend,
     (err) => {
       if (err) console.error(err);

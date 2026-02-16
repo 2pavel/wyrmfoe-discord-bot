@@ -18,7 +18,7 @@ interface CleanTag {
   count: number;
 }
 
-export function filterTags() {
+export function filterTags(): void {
   const rawData = fs.readFileSync(path.resolve("output", "tags"), "utf-8");
 
   const tags: RawTag[] = JSON.parse(rawData);

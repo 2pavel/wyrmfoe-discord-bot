@@ -8,14 +8,14 @@ import {
   TextInputStyle,
 } from "discord.js";
 import { deployCommands } from "./deploy-commands";
-import { commands } from "./commands";
+import { commands } from "@commands";
 import { config } from "./config";
 import wyrmfoeTags from "../resources/filteredTags.json";
 import {
   getRollResultMessage,
   isDicePoolValid,
   rollDice,
-} from "./utils/roll_utils";
+} from "@utils/roll_utils";
 
 const client = new Client({
   intents: [

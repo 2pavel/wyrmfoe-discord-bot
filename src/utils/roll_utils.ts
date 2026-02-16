@@ -23,7 +23,7 @@ export function rollDice(
   return { dicePool, difficulty, successes, diceResults, spec };
 }
 
-export function getRollResultMessage(roll: RollResult) {
+export function getRollResultMessage(roll: RollResult): string {
   const diceResult = roll.diceResults.map((die) => {
     switch (die) {
       case 1:

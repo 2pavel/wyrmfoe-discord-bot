@@ -3,7 +3,7 @@ import {
   MessageFlags,
   SlashCommandBuilder,
 } from "discord.js";
-import { playMusic } from "../utils/play_music";
+import { playMusic } from "../utils/music_player/player_controls";
 
 export const data = new SlashCommandBuilder()
   .setName("play")

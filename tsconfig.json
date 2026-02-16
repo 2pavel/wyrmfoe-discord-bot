@@ -4,6 +4,7 @@
     "module": "commonjs",
     "rootDir": "./src",
     "outDir": "./dist",
+    "baseUrl": ".",
     "removeComments": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
@@ -11,6 +12,10 @@
     "strict": true,
     "strictNullChecks": true,
     "skipLibCheck": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "@commands": ["src/commands"],
+      "@utils/*": ["src/utils/*"]
+    }
   }
 }
